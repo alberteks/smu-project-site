@@ -1,5 +1,6 @@
 site_name: Teens & Social Media Use -- Educational Module
 site_description: tbd.
+strict: false
 
 theme:
   name: material
