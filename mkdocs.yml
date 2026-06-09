@@ -1,0 +1,74 @@
+site_name: Teens & Social Media Use -- Educational Module
+site_description: tbd.
+
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+  features:
+    - navigation.tabs
+    - navigation.top
+
+nav:
+  - Home: index.md
+  - Resources by Topic: resources-by-topic.md
+  - Research Library:
+    - AACAP Guidance: aacap-social-media-guidance.md
+    - APA Health Advisory: american-psychological-association-health-advisory.md
+    - Association of Habitual Checking: association-of-habitual-checking-behaviors.md
+    - Can Too Much Screen Time Harm You?: can-too-much-screen-time-harm-you.md
+    - Children's Engagement with Digital Devices: childrens-engagement-with-digital-devices.md
+    - Combating FOMO (FOMO-R Method): combating-fomo-on-social-media-fomo-r-method.md
+    - Current Events & Social Media: current-events-and-social-media.md
+    - Eating Disorder Assoc. w/ Youth SM Addiction: eating-disorder-association-w-youth-sm-addiction.md
+    - Excess SMU in Normal Pop Brain Morphology: excess-smu-in-normal-pop-brain-morphology.md
+    - FOMO & Academic Procrastination: fomo-academic-procrastination-relationship.md
+    - Functional Connectivity Changes in Brain: functional-connectivity-changes-in-brain.md
+    - How Social Media Affects Teens: how-social-media-affects-teens-mental-health.md
+    - Impact of Limiting SM Time: impact-of-limiting-time-spent-on-social-media.md
+    - Impact of SMU on Academic Procrastination: impact-of-smu-academic-procrastination.md
+    - Impact of SMU on Body Image: impact-of-smu-on-body-image.md
+    - Increases in Depressive Symptoms (Post-2010): increases-in-depressive-symptoms-after-2010.md
+    - Instagram Overuse & Emotional Fatigue: instagram-overuse-instastress-and-emotional-fatigue.md
+    - Investigating Problematic Sleep due to SMU: investigating-problematic-sleep-due-to-smu.md
+    - Long-term Impact of DM on Tween Brain: long-term-impact-of-dm-on-tween-brain-development.md
+    - Managing Content on SM Feeds: managing-content-on-social-media-feeds.md
+    - Media Use & Racial/Ethnic Identities: media-use-and-development-of-racial-and-ethnic-identities.md
+    - Mindsets Matter (Beliefs about FB): mindsets-matter-beliefs-about-facebook.md
+    - Navigating the Digital Age: navigating-the-digital-age-social-media-impact.md
+    - Non-screen Activities for Teenagers: non-screen-activities-for-teenagers.md
+    - Online Social Networking Patterns: online-social-networking-in-adolescents-patterns.md
+    - Problem Tech Use & Academic Performance: problem-technology-use-academic-performance-connection.md
+    - Problematic SMU Reflection & Identity: problematic-smu-reflection-and-identity-processes.md
+    - Procrastination on Social Networks: procrastination-on-social-networks.md
+    - Offline Friendships vs Digital Interactions: qualities-of-adolescent-offline-friendships-in-digital-interactions.md
+    - Screen Time & Psychological Well-being: screen-time-association-with-psychological-well-being.md
+    - Self-disclosure & Well-being: self-disclosure-and-social-media-well-being.md
+    - Sleep Problems in Teenagers Reversed: sleep-problems-in-teenagers-reversed.md
+    - Sleep Quality & SM (AAP): sleep-quality-and-social-media-aap.md
+    - SMU & Adolescent Sleep Longitudinal Study: smu-and-adolescent-sleep-longitudinal-study.md
+    - SMU & Adolescent Sleep Patterns: smu-and-adolescent-sleep-patterns.md
+    - SMU & Friendship Closeness: smu-and-friendship-closeness-in-adolescent-lives.md
+    - SMU Students' Academic Procrastination: smu-students-academic-procrastination.md
+    - SM Addiction & Procrastination (Grade 11): social-media-addiction-procrastination-grade-11.md
+    - SM & Adolescent Brain Development: social-media-and-adolescent-brain-development.md
+    - Social Media and Friendships: social-media-and-friendships.md
+    - SM & Mental Health Crisis in Teens: social-media-and-mental-health-crisis-in-teens.md
+    - SM Consensus Paper Causes Uproar: social-media-consensus-paper-causes-uproar.md
+    - SM Use & Academic Achievement: social-media-use-and-academic-achievement.md
+    - Striatal Dopamine Synthesis Capacity: striatal-dopamine-synthesis-capacity-social-use.md
+    - Systematic Review of SMU & Identity Dev: systematic-review-of-smu-and-adolescent-identity-dev.md
+    - Teens, Screens, and Mental Health: teens-screens-and-mental-health.md
+    - Teens, Social Media, and Technology 2024: teens-social-media-and-technology-2024.md
+    - Teens Spending Nearly 5 Hours on Socials: teens-spending-nearly-five-hours-on-socials.md
+    - The ABCD Study: the-adolescent-brain-cognitive-development-ABCD.md
+    - The Impact of SM on Mental Health: the-impact-of-social-media-on-mental-health.md
+    - The Power of the Like: the-power-of-the-like-adolescence.md
+    - The Social Media Disorder Scale: the-social-media-disorder-scale.md
+    - Tips to Manage SM Use for Teens: tips-to-manage-sm-use-for-teens.md
+    - To the Contrary (25k Teens, 3 Years): to-the-contrary-25000-teens-3-years.md
+    - Too Much SM (Social Media Fatigue): too-much-social-media-social-media-fatigue.md
+    - What Should Policymakers Do?: what-should-policymakers-do-about-social-media.md
+    - What the Brain Likes (Neural Correlates): what-the-brain-likes-neural-correlates.md
+    - Windows of Developmental Sensitivity to SM: windows-of-developmental-sensitivity-to-SM.md
