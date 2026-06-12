@@ -3,7 +3,7 @@
 *(Published Jul 2018\)*
 
 * Researchers **used fMRI technology** with 61 participants (ages 13-21 y.o.; 3 excluded from final sample) **to determine neural correlates of providing social feedback (likes) on an environment mimicking Instagram**  
-    * Note **mean age was \~18 y.o.**, so potential differences between adolescent and adult effects not factored into this study   
+    * Note **mean age was ~18 y.o.**, so potential differences between adolescent and adult effects not factored into this study   
 * Hypothesis was activation of reward circuits: dorsal and ventral striatum, ventromedial prefrontal cortex (vmPFC), and ventral tegmental area (VTA)  
 * Participants submitted photographs to be evaluated by others in study, and then were instructed to press “like” (referred to just as “Like” throughout study and rest of notes) or “next” in an Instagram-resembling platform on what researchers told them were others’ images while undergoing fMRI scanning in a laboratory setting   
     * Were told to evaluate whether to Like an image or not based on same criteria they typically use on SM  
