@@ -140,7 +140,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
 3) Fear of “not getting the right interpretation of some social interaction”  
 4) Fear of “deal\[ing\] with different social networks at one time”  
 5) Fear of “missing temporarily available information and timely interactions”  
-- Eventual **consequences of FoMO may include**:[^59] [^60]   
+- Eventual **consequences of FoMO may include**:[^60] [^61]   
     - **Lack of sleep** – see [here](#sleep) for more sleep-related social media impacts  
     - **Reduced competency in daily activities**  
     - **Emotional tension**  
@@ -194,7 +194,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
     - *Create priority list of contacts that are especially important/meaningful to you*  
         - *Mute notifications, except high-importance*  
     - *Physically distance yourself from devices from time to time, and engage in activities you enjoy*  
-- For self-help packet summarizing FoMO-R method, developed experimentally by researchers to help combat social media on various major platforms, see [here](https://www.mdpi.com/1660-4601/17/17/6128/s1) (download link)[^61]  
+- For self-help packet summarizing FoMO-R method, developed experimentally by researchers to help combat social media on various major platforms, see [here](https://www.mdpi.com/1660-4601/17/17/6128/s1) (download link)[^62]  
     - Core tools of method:  
 1) *Self talk: use “do not” when resisting temptation*  
 - “I don’t do X”  
@@ -284,9 +284,9 @@ Throughout the module, most acronyms are defined in full at least once, and then
 
 ### Screen Time and Sleep
 
-- **Adolescents who frequently use social media during the day report less total sleep time**[^62] and **poorer sleep quality**[^63]   
-- International research data shows that 4-18% of 15 y/os from 42 countries/regions reported high levels of problematic SMU in 2017-2018[^64] (Problematic social media use: “loss of control over one’s social media use, accompanied by significant impairments in daily-life functioning”[^26])  
-- Frequency of social media use (especially in the evenings) is related to a delay in bedtime[^65], increased difficulty falling asleep[^66] [^67], shorter sleep duration[^66] [^68], and poorer sleep quality[^63] [^69]   
+- **Adolescents who frequently use social media during the day report less total sleep time**[^63] and **poorer sleep quality**[^64]   
+- International research data shows that 4-18% of 15 y/os from 42 countries/regions reported high levels of problematic SMU in 2017-2018[^65] (Problematic social media use: “loss of control over one’s social media use, accompanied by significant impairments in daily-life functioning”[^26])  
+- Frequency of social media use (especially in the evenings) is related to a delay in bedtime[^66], increased difficulty falling asleep[^67] [^68], shorter sleep duration[^67] [^69], and poorer sleep quality[^64] [^70]   
 - Exposure to too much evening light (e.g., blue light from screens) can affect the brain’s clock and the production of the sleep hormone melatonin \-\> disrupts sleep time & quality  
 - “Sleep in teenagers can be improved by just one week of limiting their evening exposure to light-emitting screens on phones, tablets and computers, according to findings to be presented in Lyon, at the European Society of Endocrinology annual meeting, ECE 2019.”[^27]   
     - Study indicates that by simply limiting exposure to blue-light emitting devices in the evening, in one week, adolescents can:  
@@ -299,10 +299,10 @@ Throughout the module, most acronyms are defined in full at least once, and then
 
 ### Social Media’s Long and Short-Term Effects on Sleep Quality 
 
-- National Sleep Foundation (NSF) recommends that children ages 6-13 get 9-11 hours of sleep per night, and adolescents 14-17 years of age get 8-10 hours per night[^70]  
+- National Sleep Foundation (NSF) recommends that children ages 6-13 get 9-11 hours of sleep per night, and adolescents 14-17 years of age get 8-10 hours per night[^71]  
 - Risks associated with not getting sufficient sleep for children & adolescents:  
     - Trouble thinking clearly  
-    - Poor academic performance[^68]   
+    - Poor academic performance[^69]   
     - Feeling less awake or aware  
     - Depressed mood  
     - Anxiety symptoms  
@@ -312,14 +312,14 @@ Throughout the module, most acronyms are defined in full at least once, and then
     - Other studies have suggested that sleep deprivation related to screen time may affect children & adolescents more than adults  
 - “Psychological well-being influences CSMU (compulsive social media use), which in concurrence with sleep habits, influences the association between FoMO and problematic sleep”[^14]  
     - Study found positive association between CMSU with problematic sleep due to social media to be significant among students → suggests social media engagement takes precedence over sleep quality or duration for students  
-    - Study found positive association with FoMO (fear of missing out) and poor social media sleep hygiene to be significant for students, which is supported by prior research on effects of FoMO on young social media users (e.g.[^71] [^72]) → suggests that “students give considerable value to FoMO and may consequently experience higher levels of nomophobia”  
+    - Study found positive association with FoMO (fear of missing out) and poor social media sleep hygiene to be significant for students, which is supported by prior research on effects of FoMO on young social media users (e.g.[^72] [^73]) → suggests that “students give considerable value to FoMO and may consequently experience higher levels of nomophobia”  
 - “Strict parental rules about internet and smartphone use before sleep might prevent negative consequences of social media use on bedtime and sleep quality, but only among less engaged social media users. Once adolescents are highly engaged social media users, strict parental rules do not seem to prevent negative media influences on sleep.”[^26]  
     - “...Parental rules regarding social media use in the hour before going to sleep generated more convincing results than parental rules regarding taking a smartphone or tablet to the bedroom; therefore, they may be more effective in preventing sleep problems”  
-- B-SATED (Behavior, Satisfaction, Alertness, Timing, Efficiency, and Duration)[^28] = comprehensive model designed to optimize sleep health for youth adolescents by addressing six dimensions[^73]   
+- B-SATED (Behavior, Satisfaction, Alertness, Timing, Efficiency, and Duration)[^28] = comprehensive model designed to optimize sleep health for youth adolescents by addressing six dimensions[^74]   
     - Sleep-related **behaviors** include factors that promote sleep (e.g., consistent sleep schedule, bedtime routine) & those that could **negatively impact sleep (e.g., caffeine and technology use in the hour before bed)**  
     - **Satisfaction** with sleep is a subjective feeling of whether the person thought their sleep was good/bad in quality. Phones and other electronic devices can play a role in this **(if phones are keeping people awake and distracting them, they may report less satisfaction with sleep quality)**  
-    - **Alertness** means the ability to remain alert and awake during the day. **Cross-sectional study of 4153 U.S. adolescents ages 12-17 years found that adolescents who posted on or checked social media more frequently and those who perceived social media to be more important for social belonging had higher levels of daytime sleepiness**[^74]   
-    - **Timing** of sleep refers to when a person goes to bed and wakes up with a regular routine aligning with natural sleep cycles showing best results. A **review article found several studies that suggested adolescents may postpone bedtime so they can continue using devices for entertainment (behavioral bedtime delay).** When adolescents postpone sleep, they may not be able to also postpone wake-up time, leading to shorter sleep[^75]   
+    - **Alertness** means the ability to remain alert and awake during the day. **Cross-sectional study of 4153 U.S. adolescents ages 12-17 years found that adolescents who posted on or checked social media more frequently and those who perceived social media to be more important for social belonging had higher levels of daytime sleepiness**[^75]   
+    - **Timing** of sleep refers to when a person goes to bed and wakes up with a regular routine aligning with natural sleep cycles showing best results. A **review article found several studies that suggested adolescents may postpone bedtime so they can continue using devices for entertainment (behavioral bedtime delay).** When adolescents postpone sleep, they may not be able to also postpone wake-up time, leading to shorter sleep[^76]   
     - Sleep **efficiency** refers to how easy it is for one to fall asleep & return to sleep if they wake in the middle of the night. **Phone alerts may interfere with sleep efficiency**  
     - Sleep duration refers to the total amount of sleep a person gets per day. Number of recommended hours an individual should get changes across development  
 - Tips for promoting healthy adolescent sleep habits:[^28]  
@@ -425,7 +425,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
     - “**Social media use was significantly correlated with depressive symptoms among girls … but not among boys** … (with demographic controls)”   
     - Overall, “**adolescents using social media sites every day were 13% more likely to report high levels of depressive symptoms than those using social media less often**”   
     - Additionally, results suggested that in-person interaction might have an offsetting effect on negative SMU effects: “**among those low in in-person social interaction, social media use had a significant effect on depressive symptoms … but among those high in in-person social interaction, social media did not have a significant effect**”   
-- One longitudinal study on adolescents found “n**o evidence that time spent on social media or gaming frequency predicted later internalizing symptoms among girls or boys. Sensitivity analyses that distinguished active vs. passive social media use replicated findings**” ()  
+- One longitudinal study on adolescents found “**no evidence that time spent on social media or gaming frequency predicted later internalizing symptoms among girls or boys. Sensitivity analyses that distinguished active vs. passive social media use replicated findings**”[^45]
     - Speculative commentary:  
         - A lot of possible colliding factors for generational behavioral changes BESIDES SMU/screen time: “could be social influences from other children, more parents working outside of home, TV shows, music, drinking, school pressure, lack of being able to be w/ a lot of generations of family, lack of affordability of childcare, etc.”   
         - Stress from constant social media notifications could be associated but not predictable  
@@ -434,12 +434,12 @@ Throughout the module, most acronyms are defined in full at least once, and then
 
 ### Social Media Addiction / Social Media Fatigue
 
-- Study conducted via surveying young adults in Spain found that **“addiction to Instagram was mainly due to the fact that the respondents spent more time on Instagram than initially intended, which results in their incapability of reducing its usage”**[^45]  
+- Study conducted via surveying young adults in Spain found that **“addiction to Instagram was mainly due to the fact that the respondents spent more time on Instagram than initially intended, which results in their incapability of reducing its usage”**[^46]  
     - At the same time, “the risk of losing a significant relationship, job or career opportunity was not found to be a significant consequence of their addictive Instagram usage”   
         - Suggests that, while Instagram addiction may have negative correlates beyond just taking up time of users–such as emotional fatigue and instastress–it is not as detrimental as other addictions in its interference in users’ daily lives   
 - Overall (to the end of their research question), authors concluded that **“addiction partially mediates the impact of overuse on emotional fatigue and instastress”**  
     - Essentially, this means that overuse can often lead to addiction, which then leads to negative consequences of Instagram use. However, the only partial mediation shows that simply overuse, without a user necessarily reaching the threshold of addiction, correlates directly to negative consequences as well  
-- Study (online questionnaire for social media users – note: not specifically adolescents or young adults) found that “while enjoying the benefits of online communication, many young individuals are experiencing various challenges such as negative comparisons, too much information, and difficulties interacting with others”[^46]  
+- Study (online questionnaire for social media users – note: not specifically adolescents or young adults) found that “while enjoying the benefits of online communication, many young individuals are experiencing various challenges such as negative comparisons, too much information, and difficulties interacting with others”[^47]  
     - **Social media self-efficacy was found to have a significant negative impact on social media fatigue**  
     - **Compulsive social media use and FoMO had significant positive impacts on social media fatigue**  
     - **Information overload has a significant positive impact on social media fatigue**  
@@ -453,34 +453,34 @@ Throughout the module, most acronyms are defined in full at least once, and then
 
 ### Consuming News on Social Media
 
-- Social media has made it possible to have access to the latest news at any given moment, in real-time, right at your fingertips[^47]  
+- Social media has made it possible to have access to the latest news at any given moment, in real-time, right at your fingertips[^48]  
     - Most teens report preferring to get their news from social media and/or YouTube than traditional news sources  
     - Teens who get news from social media & YouTube are also much more likely to consume news from influencers and content creators who may not be reliable sources   
     - On the flip side, consuming news on social media might increase teens’ likelihood of participating in civic events & volunteering within community  
-- Some things to do to stay connected while protecting mental well-being:[^47]  
+- Some things to do to stay connected while protecting mental well-being:[^48]  
     - Limiting the types of quantity of content you see  
         - Some resources for adjusting settings:   
-            - Managing content controls – TikTok[^48]   
-            - Navigating tragic events (which can include distressing news coverage & social media content) – TikTok[^49]   
-            - Adjusting sensitive content controls – Instagram[^50]   
-            - How to stop seeing suggested posts with certain words or phrases – Instagram[^51]   
-            - How to manage and adjust recommended content – YouTube[^52]   
+            - Managing content controls – TikTok[^49]   
+            - Navigating tragic events (which can include distressing news coverage & social media content) – TikTok[^50]   
+            - Adjusting sensitive content controls – Instagram[^51]   
+            - How to stop seeing suggested posts with certain words or phrases – Instagram[^52]   
+            - How to manage and adjust recommended content – YouTube[^53]   
     - Go directly to credible sources  
         - Some resources for media literacy and identifying credible sources:  
-            - Is This Legit: A Media Literacy Skills Recap[^53]   
-            - Echo Chambers: How They’re Created and How to Avoid Them[^54]   
-            - Tips for Detecting Doctored or Out of Context Videos[^55] 
+            - Is This Legit: A Media Literacy Skills Recap[^54]   
+            - Echo Chambers: How They’re Created and How to Avoid Them[^55]   
+            - Tips for Detecting Doctored or Out of Context Videos[^56] 
 
 ### Identity Development on Social Media
 
-- Studies found mixed results on the relationship between time spent on social media and identity exploration outcomes, but did reliably conclude that “**social media use seems to be important for identity exploration among those who actively participate**”[^56]  
+- Studies found mixed results on the relationship between time spent on social media and identity exploration outcomes, but did reliably conclude that “**social media use seems to be important for identity exploration among those who actively participate**”[^57]  
     - Suggests that the **type of social media used may be a more important factor in** regulating the **relationship between social media and identity**, **than** the **amount of social media use**   
 - A couple studies found that “ability and opinion comparison” activities on social media “may be associated with identity confusion, which is also beneficial for engaging in further exploration and making new commitments”   
 - Many studies found very **mixed results on “the relationship between time spent on social media and self-concept clarity”**  
 - Based on studies comparing the way adolescents presented themselves online and their self-concept clarity, authors concluded that “when individuals present themselves in a manner that aligns with their authentic selves, it fosters self-concept clarity”  
     - That being said, “it might also be the case that those with clearer self-concept are more confident to be who they actually are on social media”  
 - For **identity distress**, **studies were** once again **mixed**, **but** one **potential relationship was ability comparison activities** on social media **correlating to identity distress**  
-- Authors’ primary conclusion was that “**it is *not* the amount of time spent on social media that is critical, but rather the activities undertaken during this time that seem to play a role for aspects of identity development**”[^56]  
+- Authors’ primary conclusion was that “**it is *not* the amount of time spent on social media that is critical, but rather the activities undertaken during this time that seem to play a role for aspects of identity development**”[^57]  
 - For a study involving a survey of high school students in Italy, authors concluded: **“results … showed that problematic social networking sites use (PSNSU) fully mediated the relationship between reflective functioning** (RF – defined as “the capacity to understand and interpret one’s own and others’ behaviour as an expression of mental states such as feelings, thoughts, fantasies, beliefs, and desires” (Fonagy et al., 2018)) **and identity in-depth exploration, and it partially mediated the relationship between RF and reconsideration of commitment”**[^11]  
     - “**Adolescents with deficiencies in RF tended to use social networking sites more problematically**, and, **in turn, PSNSU was negatively related with identity in-depth exploration and positively related with reconsideration of commitment**”   
         - Suggests that **adolescents finding difficulty building in-person relationships may turn to social media, but heavy reliance on social media use leads to difficulty** in **exploring & committing to well-developed personal and social identity**  
@@ -490,7 +490,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
 
 ### Setting limits on social media
 
-- Mixed findings about effectiveness of limiting social media use; **setting limits is beneficial for some, could be “detrimental” to others depending how to use it**[^57]   
+- Mixed findings about effectiveness of limiting social media use; **setting limits is beneficial for some, could be “detrimental” to others depending how to use it**[^58]   
 - “Knowing that, try to create a culture at home where all phones are turned off by a certain time, and make sure it’s at least one hour before going to bed” –Dr. Poncin[^36]
 
 ### Tips on reducing social media use
@@ -501,7 +501,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
         - [Non-screen activities for teenagers](non-screen-activities-for-teenagers.md)   
     - Plan regular sleep routine that helps with relaxation  
     - Consider talking to family about establishing Family Media Plan that can provide ideas for rules, guidelines, and shared media experiences  
-    - Explore variety of control settings and understand how to curate feed and see beneficial content[^58] 
+    - Explore variety of control settings and understand how to curate feed and see beneficial content[^59] 
 
 [^1]: [Teens, Social Media and Technology 2024](teens-social-media-and-technology-2024.md)
 [^2]: [https://www.commonsensemedia.org/kids-action/articles/tweens-teens-and-phones-what-our-2019-research-reveals](https://www.commonsensemedia.org/kids-action/articles/tweens-teens-and-phones-what-our-2019-research-reveals)
@@ -547,34 +547,35 @@ Throughout the module, most acronyms are defined in full at least once, and then
 [^42]: [https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2749480](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2749480)
 [^43]: [Impact of Limiting Time Spent on Social Media](impact-of-limiting-time-spent-on-social-media.md)
 [^44]: [Increases in Depressive Symptoms, Suicide-Related Outcomes, and Suicide Rates Among U.S. Adolescents After 2010 and Links to Increased New Media Screen Time](increases-in-depressive-symptoms-after-2010.md)
-[^45]: [From Instagram overuse to instastress and emotional fatigue: the mediation of addiction](instagram-overuse-instastress-and-emotional-fatigue.md)
-[^46]: [Too much social media? Unveiling the effects of determinants in social media fatigue](too-much-social-media-social-media-fatigue.md)
-[^47]: [Current Events and Social Media](current-events-and-social-media.md)
-[^48]: [https://www.tiktok.com/safety/en/content-controls/](https://www.tiktok.com/safety/en/content-controls/)
-[^49]: [https://www.tiktok.com/safety/en/tragic-events-support/](https://www.tiktok.com/safety/en/tragic-events-support/)
-[^50]: [https://help.instagram.com/251027992727268/?helpref=related\_articles](https://help.instagram.com/251027992727268/?helpref=related_articles)
-[^51]: [https://help.instagram.com/682833393310241/?cms\_platform=iphone-app\&helpref=platform\_switcher](https://help.instagram.com/682833393310241/?cms_platform=iphone-app&helpref=platform_switcher)
-[^52]: [https://support.google.com/youtube/answer/6342839?hl=en\&hl=en\&co=GENIE.Platform%3DiOS\&oco=1](https://support.google.com/youtube/answer/6342839?hl=en&hl=en&co=GENIE.Platform%3DiOS&oco=1)
-[^53]: [https://www.poynter.org/tfcn/2023/is-this-legit-a-media-literacy-skills-recap/](https://www.poynter.org/tfcn/2023/is-this-legit-a-media-literacy-skills-recap/)
-[^54]: [https://www.poynter.org/tfcn/2023/echo-chambers-how-theyre-created-and-how-to-avoid-them/](https://www.poynter.org/tfcn/2023/echo-chambers-how-theyre-created-and-how-to-avoid-them/)
-[^55]: [https://www.poynter.org/fact-checking/2023/tips-for-detecting-doctored-or-out-of-context-videos/](https://www.poynter.org/fact-checking/2023/tips-for-detecting-doctored-or-out-of-context-videos/)
-[^56]: [A Systematic Review of Social Media Use and Adolescent Identity Development](systematic-review-of-smu-and-adolescent-identity-dev.md)
-[^57]: [Too Much of a Good Thing: Who We Follow, What We Do, And How Much Time We Spend on Social Media Affects Well-Being](tips-to-manage-sm-use-for-teens.md)
-[^58]: [Managing Content on Social Media Feeds](managing-content-on-social-media-feeds.md)
-[^59]: [https://link.springer.com/chapter/10.1007/978-3-030-16184-2_87](https://link.springer.com/chapter/10.1007/978-3-030-16184-2_87)
-[^60]: [https://www.mdpi.com/1660-4601/16/12/2136](https://www.mdpi.com/1660-4601/16/12/2136)
-[^61]: [https://www.mdpi.com/1660-4601/17/17/6128/s1](https://www.mdpi.com/1660-4601/17/17/6128/s1)
-[^62]: [https://psycnet.apa.org/doiLanding?doi=10.1037/a0027030](https://psycnet.apa.org/doiLanding?doi=10.1037/a0027030)
-[^63]: [https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2016.05.008](https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2016.05.008)
-[^64]: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9597146/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9597146/)
-[^65]: [https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2018.07.009](https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2018.07.009)
-[^66]: [https://www.sciencedirect.com/science/article/pii/S1389945713020194?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1389945713020194?via%3Dihub)
-[^67]: [https://journals.lww.com/jrnldbp/abstract/2016/01000/impact_of_media_use_on_adolescent_sleep_efficiency.2.aspx](https://journals.lww.com/jrnldbp/abstract/2016/01000/impact_of_media_use_on_adolescent_sleep_efficiency.2.aspx)
-[^68]: [https://www.sleephealthjournal.org/article/S2352-7218(18)30187-6/fulltext](https://www.sleephealthjournal.org/article/S2352-7218(18)30187-6/fulltext)
-[^69]: [https://turkjpediatr.org/article/view/850](https://turkjpediatr.org/article/view/850)
-[^70]: [https://www.thensf.org/how-many-hours-of-sleep-do-you-really-need/](https://www.thensf.org/how-many-hours-of-sleep-do-you-really-need/)
-[^71]: [https://www.sciencedirect.com/science/article/pii/S1389945719313784?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1389945719313784?via%3Dihub)
-[^72]: [https://www.sciencedirect.com/science/article/pii/S0747563220302399#bib73](https://www.sciencedirect.com/science/article/pii/S0747563220302399#bib73)
-[^73]: [https://www.sciencedirect.com/science/article/pii/S1087079221000101?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1087079221000101?via%3Dihub)
-[^74]: [https://mental.jmir.org/2021/9/e26273](https://mental.jmir.org/2021/9/e26273)
-[^75]: [https://www.sciencedirect.com/science/article/pii/S1056499317301384?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1056499317301384?via%3Dihub)
+[^45]: [To the Contrary | 25,000 Teens, 3 Years: Groundbreaking Social Media and Mental Health Study](to-the-contrary-25000-teens-3-years.md)
+[^46]: [From Instagram overuse to instastress and emotional fatigue: the mediation of addiction](instagram-overuse-instastress-and-emotional-fatigue.md)
+[^47]: [Too much social media? Unveiling the effects of determinants in social media fatigue](too-much-social-media-social-media-fatigue.md)
+[^48]: [Current Events and Social Media](current-events-and-social-media.md)
+[^49]: [https://www.tiktok.com/safety/en/content-controls/](https://www.tiktok.com/safety/en/content-controls/)
+[^50]: [https://www.tiktok.com/safety/en/tragic-events-support/](https://www.tiktok.com/safety/en/tragic-events-support/)
+[^51]: [https://help.instagram.com/251027992727268/?helpref=related\_articles](https://help.instagram.com/251027992727268/?helpref=related_articles)
+[^52]: [https://help.instagram.com/682833393310241/?cms\_platform=iphone-app\&helpref=platform\_switcher](https://help.instagram.com/682833393310241/?cms_platform=iphone-app&helpref=platform_switcher)
+[^53]: [https://support.google.com/youtube/answer/6342839?hl=en\&hl=en\&co=GENIE.Platform%3DiOS\&oco=1](https://support.google.com/youtube/answer/6342839?hl=en&hl=en&co=GENIE.Platform%3DiOS&oco=1)
+[^54]: [https://www.poynter.org/tfcn/2023/is-this-legit-a-media-literacy-skills-recap/](https://www.poynter.org/tfcn/2023/is-this-legit-a-media-literacy-skills-recap/)
+[^55]: [https://www.poynter.org/tfcn/2023/echo-chambers-how-theyre-created-and-how-to-avoid-them/](https://www.poynter.org/tfcn/2023/echo-chambers-how-theyre-created-and-how-to-avoid-them/)
+[^56]: [https://www.poynter.org/fact-checking/2023/tips-for-detecting-doctored-or-out-of-context-videos/](https://www.poynter.org/fact-checking/2023/tips-for-detecting-doctored-or-out-of-context-videos/)
+[^57]: [A Systematic Review of Social Media Use and Adolescent Identity Development](systematic-review-of-smu-and-adolescent-identity-dev.md)
+[^58]: [Too Much of a Good Thing: Who We Follow, What We Do, And How Much Time We Spend on Social Media Affects Well-Being](tips-to-manage-sm-use-for-teens.md)
+[^59]: [Managing Content on Social Media Feeds](managing-content-on-social-media-feeds.md)
+[^60]: [https://link.springer.com/chapter/10.1007/978-3-030-16184-2_87](https://link.springer.com/chapter/10.1007/978-3-030-16184-2_87)
+[^61]: [https://www.mdpi.com/1660-4601/16/12/2136](https://www.mdpi.com/1660-4601/16/12/2136)
+[^62]: [https://www.mdpi.com/1660-4601/17/17/6128/s1](https://www.mdpi.com/1660-4601/17/17/6128/s1)
+[^63]: [https://psycnet.apa.org/doiLanding?doi=10.1037/a0027030](https://psycnet.apa.org/doiLanding?doi=10.1037/a0027030)
+[^64]: [https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2016.05.008](https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2016.05.008)
+[^65]: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9597146/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9597146/)
+[^66]: [https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2018.07.009](https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2018.07.009)
+[^67]: [https://www.sciencedirect.com/science/article/pii/S1389945713020194?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1389945713020194?via%3Dihub)
+[^68]: [https://journals.lww.com/jrnldbp/abstract/2016/01000/impact_of_media_use_on_adolescent_sleep_efficiency.2.aspx](https://journals.lww.com/jrnldbp/abstract/2016/01000/impact_of_media_use_on_adolescent_sleep_efficiency.2.aspx)
+[^69]: [https://www.sleephealthjournal.org/article/S2352-7218(18)30187-6/fulltext](https://www.sleephealthjournal.org/article/S2352-7218(18)30187-6/fulltext)
+[^70]: [https://turkjpediatr.org/article/view/850](https://turkjpediatr.org/article/view/850)
+[^71]: [https://www.thensf.org/how-many-hours-of-sleep-do-you-really-need/](https://www.thensf.org/how-many-hours-of-sleep-do-you-really-need/)
+[^72]: [https://www.sciencedirect.com/science/article/pii/S1389945719313784?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1389945719313784?via%3Dihub)
+[^73]: [https://www.sciencedirect.com/science/article/pii/S0747563220302399#bib73](https://www.sciencedirect.com/science/article/pii/S0747563220302399#bib73)
+[^74]: [https://www.sciencedirect.com/science/article/pii/S1087079221000101?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1087079221000101?via%3Dihub)
+[^75]: [https://mental.jmir.org/2021/9/e26273](https://mental.jmir.org/2021/9/e26273)
+[^76]: [https://www.sciencedirect.com/science/article/pii/S1056499317301384?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1056499317301384?via%3Dihub)
