@@ -4,15 +4,15 @@ To quickly find resources by topic, see [this tab](resources-by-topic.md).
 
 [Purpose](#purpose)  
 [Interpersonal Relationships](#interpersonal-relationships)  
-[FoMO & Procrastination](#fomo-&-procrastination)  
+[FoMO & Procrastination](#fomo-procrastination)  
 [Neuroscience on Social Media](#neuroscience-on-social-media)  
 [Sleep](#sleep)  
 [Academic Performance](#academic-performance)  
-[Body Image/Eating Disorders](#body-image/eating-disorders)  
-[Behavioral Impacts (Including Stress & Depression)](#behavioral-impacts-\(including-stress-&-depression\))  
-[Info for Parents and Educators](#info-for-parents-&-educators)
+[Body Image/Eating Disorders](#body-imageeating-disorders)  
+[Behavioral Impacts (Including Stress & Depression)](#behavioral-impacts-including-stress-depression)
+[Info for Parents and Educators](#info-for-parents-educators)
 
-# Purpose {#purpose}
+# Purpose
 
 ### What is this module, and who is it intended for?
 
@@ -49,7 +49,7 @@ For your convenience, the most **important takeaways** in each section **are bol
 
 Throughout the module, most acronyms are defined in full at least once, and then referred to by their shortened version. The most common, basic acronyms consistently used are those referring to social media directly: SMU for social media use, PSMU for problematic social media use, and SNS for social networking services. 
 
-# Interpersonal Relationships {#interpersonal-relationships}
+# Interpersonal Relationships
 
 ### Statistics on social media’s role in friendships
 
@@ -124,7 +124,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
 - From time to time, consider *participating in shared activities in your community, such as service groups or hobby clubs, that feel meaningful* to you  
   - Can help diversify social circles due to the large variety of people attending community events. This could, in part, counteract the potential for echo chambers on social media [^14]
 
-# FoMO & Procrastination {#fomo-&-procrastination}
+# FoMO & Procrastination
 
 ### How social media has changed social expectations 
 
@@ -207,7 +207,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
   - *Set usage reminders on apps (using tools like Google Digital Wellbeing) and/or time restrictions (by total time on app, or time of day)*  
   - *Set boundaries with friends on availability to respond, in advance*
 
-# Neuroscience on Social Media {#neuroscience-on-social-media}
+# Neuroscience on Social Media
 
 ### Longitudinal Brain Development and Social Media: Habitual Checking & Excessive Use
 
@@ -263,7 +263,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
   - Study found that the act of providing likes to others activates the same reward circuitry (specifically the striatum and ventral tegmental area) involved in receiving likes  
   - Providing likes was associated with activation in the “salience network” (including the insula and dorsal anterior cingulate cortex), involved in autonomic processing and interoceptive awareness (usually “gut instinct” to decide to like a photo rather than deep/active engagement) 
 
-### Distinct Developmental Windows of Sensitivity to Social Media in Adolescence {#distinct-developmental-windows-of-sensitivity-to-social-media-in-adolescence}
+### Distinct Developmental Windows of Sensitivity to Social Media in Adolescence
 
 - Analysis from 2022 study suggests that there are “distinct development windows of sensitivity to social media in adolescence” [^28]  
   - Higher estimated social media predicts a decrease in life satisfaction ratings one year later (and vice-versa)  
@@ -280,7 +280,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
     - Data showed **later increase in sensitivity for both sexes around age 19**  
       - This “**might be related to changes in the social environment such as a move away from home** and subsequent disruptions in social networks”
 
-# Sleep {#sleep}
+# Sleep
 
 ### Screen Time and Sleep
 
@@ -332,7 +332,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
   - *Aim for recommended amount of sleep each night* based on age & development  
     - Try to keep routine consistent each night to coincide with natural sleep-wake rhythms
 
-# Academic Performance {#academic-performance}
+# Academic Performance
 
 ### Heavy and/or “Problematic” Social Media Use vs. Academic Performance
 
@@ -348,7 +348,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
 - In a sample of around 10,000 adolescents aged 14-17, “**adolescents who engaged heavily in SNS scored significantly lower in offline Activities and Academic performance compared with adolescents who used SNS moderately**” [^35]  
   - Important takeaway: moderate use may not be very harmful, but excessive use perhaps can be
 
-### Impact of age/maturity, gender identity, and parental intervention {#impact-of-age/maturity,-gender-identity,-and-parental-intervention}
+### Impact of age/maturity, gender identity, and parental intervention
 
 - In a survey on the association between general technology use and academic performance, it was found that female-identifying individuals were more likely to be affected by time spent online than male-identifying individuals among the respondents [^32]   
   - This is an important difference to investigate further in future studies. Currently, there is not much evidence/hypotheses explaining this phenomena, or its accuracy.  
@@ -361,7 +361,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
       - Further investigation is needed to determine whether this moderated the relationship is due to inherent impacts of adolescent-parent interaction, or simply because extensive parental communication often involved limits/expectations being more strictly imposed on social media use.   
         - Either way, it is worth investigating what actions parents can take to aid young adolescents in navigating healthy social media use. For reference on potential actions, see [here](#info-for-parents-&-educators).
 
-# Body Image/Eating Disorders {#body-image/eating-disorders}
+# Body Image/Eating Disorders
 
 ### Social Media’s Impact on Body Image and Eating Disorders
 
@@ -383,7 +383,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
 - Review of 50 studies across 17 countries between 2016 and 2021 suggested that relentless online exposure to largely unattainable physical ideals may trigger a distorted sense of self and eating disorders (particularly among girls) [^39]   
 - Potential Solution: based on research, authors concluded that “**interventions targeting negative consequences of social media use should focus on addressing content consumed**, rather than time spent on social media platforms” [^38]
 
-# Behavioral Impacts (Including Stress & Depression) {#behavioral-impacts-(including-stress-&-depression)}
+# Behavioral Impacts (Including Stress & Depression)
 
 ### Social Media Red Flags: When Does Use Become Problematic?
 
@@ -486,7 +486,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
     - Suggests that **adolescents finding difficulty building in-person relationships may turn to social media, but heavy reliance on social media use leads to difficulty** in **exploring & committing to well-developed personal and social identity**  
       - Potentially due to immediate and (sometimes) negative comparisons abundant in social media interactions 
 
-# Info for Parents & Educators {#info-for-parents-&-educators}
+# Info for Parents & Educators
 
 ### Setting limits on social media
 
