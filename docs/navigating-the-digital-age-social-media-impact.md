@@ -94,7 +94,7 @@
     * Increase in dysregulated behaviors  
         * NOTE: unverified claim w/o source  
 * *Problematic Interactive Media Use: PIMU*  
-    * PIMU \= term coined by Michael Rich, MD “the Mediatrician” and colleagues  
+    * PIMU = term coined by Michael Rich, MD “the Mediatrician” and colleagues  
     * Overuse of a necessary resource  
     * Driven by psychological disorders–ADHD, anxiety, etc.  
     * Continued use despite negative consequences  

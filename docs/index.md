@@ -506,7 +506,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
 [^1]: [Teens, Social Media and Technology 2024](teens-social-media-and-technology-2024.md)
 [^2]: [https://www.commonsensemedia.org/kids-action/articles/tweens-teens-and-phones-what-our-2019-research-reveals](https://www.commonsensemedia.org/kids-action/articles/tweens-teens-and-phones-what-our-2019-research-reveals)
 [^3]: [Teens are spending nearly 5 hours daily on social media](teens-spending-nearly-five-hours-on-socials.md)
-[^4]: [https://www.brooklane.org/wp-content/uploads/2025/03/Susan-Corley-Navigating-The-Digital-Age-Social-Media-Impact-on-Young-Minds.pdf](https://www.brooklane.org/wp-content/uploads/2025/03/Susan-Corley-Navigating-The-Digital-Age-Social-Media-Impact-on-Young-Minds.pdf)
+[^4]: [Navigating the Digital Age: Social Media’s Impact on the Young Mind](navigating-the-digital-age-social-media-impact.md)
 [^5]: [Social media consensus paper causes social media uproar](social-media-consensus-paper-causes-uproar.md)
 [^6]: [Making new friends and staying in touch w/ old friends](social-media-and-friendships.md)
 [^7]: [Social Media Use and Friendship Closeness in Adolescents’ Daily Lives: An Experience Sampling Study](smu-and-friendship-closeness-in-adolescent-lives.md)
