@@ -1,15 +1,54 @@
 site_name: Teens & Social Media Use -- Educational Module
-site_description: tbd.
+site_description: An educational module for teens, parents, & educators about adolescent social media use.
 strict: false
 
+site_name: Social Media & Adolescents
+ 
 theme:
   name: material
   palette:
-    primary: indigo
-    accent: indigo
+    # Light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    # Dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+ 
   features:
-    - navigation.tabs
-    - navigation.top
+    - navigation.instant      # faster page loads
+    - navigation.tracking     # URL updates as you scroll
+    - navigation.top          # back-to-top button
+    - navigation.footer       # prev/next page footer nav
+    - search.suggest          # search autocomplete
+    - search.highlight        # highlight search terms
+    - toc.follow              # highlight current section in TOC
+ 
+  font:
+    text: Roboto
+    code: Roboto Mono
+ 
+markdown_extensions:
+  - admonition          # nice colored callout boxes (!!! note, !!! warning, etc)
+  - footnotes           # proper footnote rendering
+  - toc:
+      permalink: true   # adds a clickable # link next to each heading
+      toc_depth: 3
+  - pymdownx.details    # collapsible sections
+  - pymdownx.superfences
+  - pymdownx.highlight
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
 
 nav:
   - Home: index.md

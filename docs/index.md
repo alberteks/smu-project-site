@@ -9,7 +9,7 @@ To quickly find resources by topic, see [this tab](resources-by-topic.md).
 [Sleep](#sleep)  
 [Academic Performance](#academic-performance)  
 [Body Image/Eating Disorders](#body-imageeating-disorders)  
-[Behavioral Impacts (Including Stress & Depression)](#behavioral-impacts-including-stress-depression)
+[Behavioral Impacts (Including Stress & Depression)](#behavioral-impacts-including-stress-depression)  
 [Info for Parents and Educators](#info-for-parents-educators)
 
 # Purpose
