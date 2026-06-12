@@ -17,16 +17,16 @@ Commentary from experts on PBS:
 
 * A lot of possible colliding factors for generational behavioral changes BESIDES SMU/screen time: could be social influences from other children, more parents working outside of home, TV shows, music, drinking, school pressure, lack of being able to be w/ a lot of generations of family, lack of affordability of childcare, etc.   
 * Stress from constant social media notifications could be associated but not predictable  
-  * Getting distracted in class from time-to-time by notifs does not necessarily lead to pitfalls, behavioral issues, or intellectual defects   
+    * Getting distracted in class from time-to-time by notifs does not necessarily lead to pitfalls, behavioral issues, or intellectual defects   
 * More than just time spent on social media, content which children consume seems to matter as well, as well as timing of use (e.g., is it interfering with sleep? Are they exposed to content in the news or online victimization that may be contributing to some stressors?)  
 * Advice to parents for managing adolescents’ social media use  
-  * Create consistent, intentional boundaries for use  
-  * Parent pacts to collectively give middle schoolers flip/landline phones so kids feel connected even without social media  
-  * Have ongoing conversations about phones/social media  
-    * E.g.,   
-      * What are some exciting things you have going on?  
-      * What kinds of social connections are you bridging?  
-      * What kinds of new skills are you learning?  
-      * What kinds of new explorations are benefitting your academics?  
-      * What are some things that are really distressing you? (e.g., too much news, doomscrolling, advertisements affecting body image)  
-  * Using built-in features on social media to block harmful content
+    * Create consistent, intentional boundaries for use  
+    * Parent pacts to collectively give middle schoolers flip/landline phones so kids feel connected even without social media  
+    * Have ongoing conversations about phones/social media  
+        * E.g.,   
+            * What are some exciting things you have going on?  
+            * What kinds of social connections are you bridging?  
+            * What kinds of new skills are you learning?  
+            * What kinds of new explorations are benefitting your academics?  
+            * What are some things that are really distressing you? (e.g., too much news, doomscrolling, advertisements affecting body image)  
+    * Using built-in features on social media to block harmful content

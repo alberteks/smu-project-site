@@ -16,5 +16,5 @@
 *  “**Adolescents who engaged heavily in SNS scored significantly lower in offline Activities and Academic performance** compared with adolescents who used SNS moderately”   
 * Furthermore, “differences between moderate and heavier users are … larger for the younger age group,” suggesting that **this negative effect of social media is more pronounced when individuals are exposed to it at younger ages**  
 * At the same time, “social competence scores appeared not to differ between the two SNS use groups,” and older adolescents actually exhibited slightly higher scores among high-SNS users than moderate SNS-users.   
-  * \*\*Basically shows that social media is not all evil–just important to regulate age and be transparent about risks. Also, may have changed since 2014 lol so this is interesting to look into.   
+    * \*\*Basically shows that social media is not all evil–just important to regulate age and be transparent about risks. Also, may have changed since 2014 lol so this is interesting to look into.   
 * “**Heavier SNS users scored higher than moderate users on all three internalizing syndrome scales** and on the consolidated Internalizing scale,” and “the **negative effect** of heavier use was **more pronounced in the younger age group**”  

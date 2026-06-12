@@ -3,48 +3,48 @@
 
 * Define procrastination as “a voluntary delay of activities which often leads people to postpone or avoid working on their original tasks,” and note that “procrastination also refers to self-regulation failure”   
 * Claim that “all SNSs have implemented different features that may facilitate and encourage users to be online and engage most of the time”   
-  * Examples: notification feature, endless content, variable rewards, & immersive design  
-  * Such features create norms/expectations that other SNS users are always available to interact/communicate  
+    * Examples: notification feature, endless content, variable rewards, & immersive design  
+    * Such features create norms/expectations that other SNS users are always available to interact/communicate  
 * SNS can be an avoidance/escapism medium for users w/ lower levels of self-regulation  
 * Authors note that time-management tools for screentime, such as Google Digital Wellbeing, already exist; however, “SNS usage is a social interaction in the first place and tools should consider the collective nature of procrastination”   
-  * Example: tool to set up concrete time limit for conversation between friends  
+    * Example: tool to set up concrete time limit for conversation between friends  
 * Propose set of countermeasures combating procrastination: reminders, goal setting, and time/frequency restriction   
-  * In article, report qualitative findings about “pairing between SNS features and their countermeasures as co-designed and suggested by participants”  
+    * In article, report qualitative findings about “pairing between SNS features and their countermeasures as co-designed and suggested by participants”  
       
 * Two study phases: qualitative and quantitative  
-  * Quantitative study involved online survey examining findings of qualitative phase   
-    * Survey was distributed to students’ emails, primarily in UK and also in KSA (Kingdom of Saudi Arabia)  
+    * Quantitative study involved online survey examining findings of qualitative phase   
+        * Survey was distributed to students’ emails, primarily in UK and also in KSA (Kingdom of Saudi Arabia)  
 * In qualitative phase, three separate studies were conducted: focus groups, diary study, and clarification interviews  
-  * Focus groups involved 16 participants ages 18-40, who self-reported “frequent procrastination on their SNS accounts”   
-    * Provided base information about what SNS features could be contributing to procrastination   
+    * Focus groups involved 16 participants ages 18-40, who self-reported “frequent procrastination on their SNS accounts”   
+        * Provided base information about what SNS features could be contributing to procrastination   
 * Quantitative phase then confirmed whether main features potentially responsible for procrastination on SNS were accurate/how effective proposed countermeasures might be  
-  * Online survey distributed through student emails and QR codes/leaflets on two university campuses  
-    * 334 participants total, ages 18-67  
-    * Participants selected if at least one active SNS account and self-declared “significantly \[experiencing\] procrastination on SNS”   
+    * Online survey distributed through student emails and QR codes/leaflets on two university campuses  
+        * 334 participants total, ages 18-67  
+        * Participants selected if at least one active SNS account and self-declared “significantly \[experiencing\] procrastination on SNS”   
         
 * Features identified most often as triggering the most procrastination: notification  (50% agree), immersive design (68% agree), surveillance of presence (50% agree), interaction (57% agree), and identity (43% agree)   
-  * Opinions on each trigger were mixed in surveys: shows that different people have very different experiences w/ social media and any potential approach to self-regulating SNS use should be very individualized  
-    * 50% of survey respondents agreed notification features triggered procrastination, for example, while another 30% disagreed  
-  * Survey results on whether individuals believe certain (most agreed-with) SNS features are their greatest procrastination triggers:  
+    * Opinions on each trigger were mixed in surveys: shows that different people have very different experiences w/ social media and any potential approach to self-regulating SNS use should be very individualized  
+        * 50% of survey respondents agreed notification features triggered procrastination, for example, while another 30% disagreed  
+    * Survey results on whether individuals believe certain (most agreed-with) SNS features are their greatest procrastination triggers:  
     ![][image1]  
 * Countermeasures divided into three types: technical, socio-technical, & task engagement tools  
     
 * Suggested countermeasures (grouped by procrastination trigger type):   
   ![][image2]  
-  * Certain countermeasures were omitted if they worked best in combination with other countermeasures only (for instance, notification deactivation: deactivating notifications without using any other approach can induce greater desire to check messages regularly for users, but using it in conjunction with a feature like autoreply managing others’ expectations can address this issue)  
-    * Authors note use of multiple countermeasures could be more effective, but cite it as an area for further study  
+    * Certain countermeasures were omitted if they worked best in combination with other countermeasures only (for instance, notification deactivation: deactivating notifications without using any other approach can induce greater desire to check messages regularly for users, but using it in conjunction with a feature like autoreply managing others’ expectations can address this issue)  
+        * Authors note use of multiple countermeasures could be more effective, but cite it as an area for further study  
 * Finally, authors compare a popular digital wellbeing tool, Google Digital Wellbeing (GDW) against the countermeasures they identified as most effective for reducing SNS procrastination  
-  * Find that most were only partially or not at all supported by GDW 
+    * Find that most were only partially or not at all supported by GDW 
 
     
 
 * Limitations of study: both qualitative (focus groups, interviews) and quantitative (survey) studies limited sample to individuals who already self-reported as procrastinating on social media. Therefore, does not necessarily paint accurate picture of whether these features are likelier than not to cause procrastination in average use–only identifies which features are already causing it for a (potentially small, potentially large–this study doesn’t give us information) specific group of people  
-  * Also very small sample size in qualitative study, although addition of quantitative study somewhat addresses this  
+    * Also very small sample size in qualitative study, although addition of quantitative study somewhat addresses this  
 * Social media use is complex and often involves intersecting features/different usage patterns. Some users may already even have some countermeasures installed, and this changes what causes them the most difficulty. With this study only investigating one feature/countermeasure at a time, it provides a general idea but not a clear parallel to real-world SNS use  
-  * For example, some additional countermeasures suggested in the survey (“notification deactivation, rewards, stimulation, and social ranks”) “were excluded as it was noted that applying these countermeasures separately from each other might be detrimental to the user experience and could result in negative side-effects”   
+    * For example, some additional countermeasures suggested in the survey (“notification deactivation, rewards, stimulation, and social ranks”) “were excluded as it was noted that applying these countermeasures separately from each other might be detrimental to the user experience and could result in negative side-effects”   
 * Many proposed countermeasures are technological in nature and, given the permissions that app developers give to users, “the implementation of \[the\] countermeasures, at the moment, can only be done by the operating system or the SNS designers who have sole access to \[the needed\] data and mechanics”   
 * Limitation of countermeasures identified themselves: user reactions to countermeasures may significantly vary by personality  
-  * For example, users who procrastinate on SNS as a coping mechanism and are already aware of it may only become more stressed/use more SNS as a result of receiving reminders and suggestions about their use
+    * For example, users who procrastinate on SNS as a coping mechanism and are already aware of it may only become more stressed/use more SNS as a result of receiving reminders and suggestions about their use
 
 Summary of procrastination sources & countermeasures:
 

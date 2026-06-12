@@ -3,29 +3,29 @@
 
 * Examined association between screen time and psychological well-being (not only symptoms, but also actual diagnoses of medical psychological conditions) among children and adolescents 2-17 (sample of over 40,000 people in the US in 2016, taken from National Survey of Children’s Health–NSCH)  
 * Separated students into age groups and surveyed approximate daily screen time; then looked into association with psychological well-being as measured by NSCH  
-  * Table with screen time reports:   
+    * Table with screen time reports:   
     ![][image1]  
-  * Overall **screen time average was 3.2 hrs/day**, and **about 4.58 hrs/day for adolescents aged 14-17**  
+    * Overall **screen time average was 3.2 hrs/day**, and **about 4.58 hrs/day for adolescents aged 14-17**  
 * “**The largest increase in screen time occurred between elementary school and middle school**,” and increase in screen time for older children was “primarily driven by more time spent on electronic devices” rather than TV and video games  
-  * Electronic device category was defined in survey as “computers, cell phones, handheld video games, and other electronic devices, doing things other than schoolwork.”  
-    * Obviously, with schoolwork average screen time would be even higher, which seems to align with other studies we have looked at with higher average reported use  
-    * Screen time by age, divided between TV/video games and electronic devices:  
+    * Electronic device category was defined in survey as “computers, cell phones, handheld video games, and other electronic devices, doing things other than schoolwork.”  
+        * Obviously, with schoolwork average screen time would be even higher, which seems to align with other studies we have looked at with higher average reported use  
+        * Screen time by age, divided between TV/video games and electronic devices:  
       ![][image2]  
 * “The association between screen time and well-being was not linear and showed an inflection point at 1h/day of use for most measures,” indicating **there is often not a significant difference between not using screens at all and spending up to an hour but that psychological well-being is negatively associated with screen time past the 1 hr mark**  
-  * Supports guidelines, such as [those from the AACAP](screen-time-association-with-psychological-well-being.md), for screen time limits  
+    * Supports guidelines, such as [those from the AACAP](screen-time-association-with-psychological-well-being.md), for screen time limits  
 * **High (7+ hrs/day) screen time individuals had twice the relative risk for low psychological well-being compared to low (1 hr/day) users**. Affected **factors included “not staying calm,” “not finishing tasks,” “not being curious,” and “arguing too much with caregivers**”    
-  * It’s genuinely insane how clearly repeated this correlation is, despite the huge sample size for this study. I will include all of the graphs their results yielded to demonstrate, showing association of listed traits with hrs/day screen time, separated by age:  
-    * Score from 1-5 on “easy child index,” measuring how easy it is for caregivers to take care of children/adolescents:   
+    * It’s genuinely insane how clearly repeated this correlation is, despite the huge sample size for this study. I will include all of the graphs their results yielded to demonstrate, showing association of listed traits with hrs/day screen time, separated by age:  
+        * Score from 1-5 on “easy child index,” measuring how easy it is for caregivers to take care of children/adolescents:   
       ![][image3]  
-    * Percentage “not curious”/not interested in learning new things (note: for \~ high school-aged adolescents, there is a very significant difference between not using screens at all and using them for \<= 1 hr/day for the curiosity measure–this was the one exception found by the researchers where no screen time was much better than low screen time for curiosity traits): 
+        * Percentage “not curious”/not interested in learning new things (note: for \~ high school-aged adolescents, there is a very significant difference between not using screens at all and using them for \<= 1 hr/day for the curiosity measure–this was the one exception found by the researchers where no screen time was much better than low screen time for curiosity traits): 
 
     ![][image4]
 
-    * Percentage who “do not stay calm when challenged”:  
+        * Percentage who “do not stay calm when challenged”:  
       ![][image5]  
-    * Percentage who “do not finish tasks when started”:  
+        * Percentage who “do not finish tasks when started”:  
       ![][image6]  
-    * Percentage who “argue too much with their caregivers”:  
+        * Percentage who “argue too much with their caregivers”:  
       ![][image7]  
 * Overall takeaway for findings for high school-age adolescents (14-17): “moderate users (vs. low users) were 78% more likely to not be curious,” “60% more likely to not stay calm when challenged,” “66% more likely to not finish tasks they started,” and “57% more likely to argue too much with their caregivers”
 

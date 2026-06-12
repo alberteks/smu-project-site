@@ -5,25 +5,25 @@
 
 * Sleep problems among adolescents are common, with 10% of Dutch adolescents aged 14-17 yrs sleeping \<6.5 h, 16.3% experiencing difficulties falling asleep, 24.1% experiencing sleep interruptions, and 44.3% reporting feeling not rested upon waking up  
 * Defines problematic social media use as “loss of control over one’s social media use, accompanied by significant impairments in daily-life functioning”  
-  * International research data shows that 4-18% of 15 y/os from 42 countries/regions reported high levels of problematic SMU in 2017-2018 (Source: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9597146/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9597146/))   
-  * Important to distinguish between frequency of use & problematic use because frequent users may be able to regulate social media use whereas problematic users may not show intensive patterns of  use (e.g., due to a mismatch between their desired and actual online social network)  
+    * International research data shows that 4-18% of 15 y/os from 42 countries/regions reported high levels of problematic SMU in 2017-2018 (Source: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9597146/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9597146/))   
+    * Important to distinguish between frequency of use & problematic use because frequent users may be able to regulate social media use whereas problematic users may not show intensive patterns of  use (e.g., due to a mismatch between their desired and actual online social network)  
 * Adolescents who frequently use social media during the day report less total sleep time (Source: [https://psycnet.apa.org/doiLanding?doi=10.1037/a0027030](https://psycnet.apa.org/doiLanding?doi=10.1037/a0027030)) and poorer sleep quality (Source: [https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2016.05.008](https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2016.05.008))   
 * Frequency of social media use (especially in the evenings) is related to a delay in bedtime (Source: [https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2018.07.009](https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2018.07.009)), increased difficulty falling asleep (Sources: [https://www.sciencedirect.com/science/article/pii/S1389945713020194?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1389945713020194?via%3Dihub), [https://journals.lww.com/jrnldbp/abstract/2016/01000/impact\_of\_media\_use\_on\_adolescent\_sleep\_efficiency.2.aspx](https://journals.lww.com/jrnldbp/abstract/2016/01000/impact_of_media_use_on_adolescent_sleep_efficiency.2.aspx)), shorter sleep duration (Sources: [https://www.sciencedirect.com/science/article/pii/S1389945713020194?via%3Dihub](https://www.sciencedirect.com/science/article/pii/S1389945713020194?via%3Dihub), [https://www.sleephealthjournal.org/article/S2352-7218(18)30187-6/fulltext](https://www.sleephealthjournal.org/article/S2352-7218\(18\)30187-6/fulltext)), and poorer sleep quality (Sources: [https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2016.05.008](https://onlinelibrary.wiley.com/doi/10.1016/j.adolescence.2016.05.008), [https://turkjpediatr.org/article/view/850](https://turkjpediatr.org/article/view/850))   
-  * Screens emit blue light, which may suppress production of melatonin  
-  * Online activities (e.g., chatting) right before bedtime may cause “emotional, mental, and/or physiological arousal, which may, in turn, lead to more difficulty falling asleep and poorer sleep quality”  
-  * Because social media does not include a defined endpoint (i.e., infinite scroll), adolescents may find it challenging to stop  
+    * Screens emit blue light, which may suppress production of melatonin  
+    * Online activities (e.g., chatting) right before bedtime may cause “emotional, mental, and/or physiological arousal, which may, in turn, lead to more difficulty falling asleep and poorer sleep quality”  
+    * Because social media does not include a defined endpoint (i.e., infinite scroll), adolescents may find it challenging to stop  
 * This two-wave longitudinal study examined the effects of both the frequency of SMU and problematic SMU on adolescents’ bedtime and adolescents’ perceived quality of sleep. Also tested whether parental rules about using the internet in the hour before going to sleep and bringing the smartphone into the bedroom moderated these effects  
-  * Relationships were tested in two separate models: one with the intensity of SMU and one with problematic SMU as the main predictors, and a combined model indicating both predictors simultaneously  
+    * Relationships were tested in two separate models: one with the intensity of SMU and one with problematic SMU as the main predictors, and a combined model indicating both predictors simultaneously  
 * Methods: adolescents from six different secondary schools completed a computer-based questionnaire during school hours; ages ranged from 11 to 17  
-  * Students were in lower-level vocational education (42.2%), moderate level secondary education (11.8%), or high school/pre-university education (46.1%)  
-  * Most students (95.4%) had a Dutch background  
+    * Students were in lower-level vocational education (42.2%), moderate level secondary education (11.8%), or high school/pre-university education (46.1%)  
+    * Most students (95.4%) had a Dutch background  
 * Frequency of SMU was measured using six terms  
-  * Four items measured the use of social network sites, and two items measured instant messaging through smartphones   
-  * Problematic SMU measured using Social Media Disorder (SMD) scale containing 9 items corresponding to the nine diagnostic criteria for Internet Gaming Disorder (IGD) – see paper’s appendix for further info  
-  * Perceived quality of sleep measured using 5-item Groningen Sleep Quality Scale  
-  * Bedtime was measured with one item, “On schooldays, at what time do you go to sleep?”  
-  * Two parental rules regarding internet/smartphone use before bedtime included  
-    * Extent to which adolescent was allowed to (1) use internet/play games in the hour before they go to sleep and (2) bring their smartphone/tablet into their bedroom at bedtime on regular school days  
+    * Four items measured the use of social network sites, and two items measured instant messaging through smartphones   
+    * Problematic SMU measured using Social Media Disorder (SMD) scale containing 9 items corresponding to the nine diagnostic criteria for Internet Gaming Disorder (IGD) – see paper’s appendix for further info  
+    * Perceived quality of sleep measured using 5-item Groningen Sleep Quality Scale  
+    * Bedtime was measured with one item, “On schooldays, at what time do you go to sleep?”  
+    * Two parental rules regarding internet/smartphone use before bedtime included  
+        * Extent to which adolescent was allowed to (1) use internet/play games in the hour before they go to sleep and (2) bring their smartphone/tablet into their bedroom at bedtime on regular school days  
 * Results: mean level of the frequency of SMU at T1 was 23.01 (SD=8.10), and “on average adolescents reported one symptom of problematic social media use at T1.” At T1, more than half of the participants (65.8%) reported going to sleep at 10 pm or later (at T2, this increased to 81.8%). Average score of perceived quality of sleep was 3.32 (SD=0.92) at T1 and 3.35 (SD=0.89) at T2.   
   Correlations:  
   ![][image1]  
@@ -31,7 +31,7 @@
 * “Four out of eight interaction effects between social media use and parental rules about access to the Internet/smartphone before bedtime on adolescents’ sleep were (at least marginally) significant.” Parental rules about using the internet in the hour before going to sleep at T1 moderated the effect of the frequency of social media use at T1 (β \= −0.17, p \< 0.01) as well as the effect of problematic social media use at T1 (β \= −0.24, p \= 0.10) on the perceived quality of sleep at T2.”   
 * “Parental rules about using the internet in the hour before going to sleep at T1 moderated the effect of the frequency of social media use on bedtime at T2 (β \= 0.12, p \< 0.05).”  
 * “Parental rules about taking the smartphone to the bedroom when going to sleep at T1 moderated the effect of problematic social media use at T1 on the time adolescents go to sleep at T2 (β \= 0.30, p \< 0.05).”  
-  * Overall, strict parental rules seem to prevent subsequent sleep problems  
+    * Overall, strict parental rules seem to prevent subsequent sleep problems  
 * Intensity of SMU and degree of problematic SMU likely play a “critical role in adolescents’ tendency to delay their bedtime”  
 * “Restricting access to the internet and smartphones before going to sleep seems to be an effective way to optimize adolescents’ sleep time” (only true if adolescents are not too engaged with social media – could be related to more stress and FOMO because of a stronger urge to stay updated, perceived social norms/expectations, more conflicts with parents, etc.)  
 * “...Parental rules regarding social media use in the hour before going to sleep generated more convincing results than parental rules regarding taking a smartphone or tablet to the bedroom; therefore, they may be more effective in preventing sleep problems”  

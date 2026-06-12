@@ -4,20 +4,20 @@
 \*Note: study examines overall technology use, not only social media use. 
 
 *  Study used student sample for Ontario-wide survey, OSDUHS: **students in grades 7-12** enrolled in publicly-funded school system   
-  * Total response count was 14,142  
+    * Total response count was 14,142  
 * Initial survey question gauged amount of tech use: “About how many hours a day in your free time do you usually spend on electronic devices texting, messaging, emailing, chatting, watching videos, playing games, using social media (such as Instagram, Snapchat, Facebook), or surfing the internet?”  
-  * Responses then used to classify students into “recommended use” (2 hrs or less of reported use), “moderate use” (3-4 hrs of reported use), and “heavy use” (5 hrs or more reported use)   
+    * Responses then used to classify students into “recommended use” (2 hrs or less of reported use), “moderate use” (3-4 hrs of reported use), and “heavy use” (5 hrs or more reported use)   
 * After categorizing students into recommended, moderate, or heavy use groups, Short Problem Internet Use Test (SPIUT) was used to determine problem technology use in various groups  
-  * Comprehensive scale adapted from compulsive use test: measures “various dimensions, including preoccupation, loss of control, withdrawal, conflict with family/friends, and coping”  
+    * Comprehensive scale adapted from compulsive use test: measures “various dimensions, including preoccupation, loss of control, withdrawal, conflict with family/friends, and coping”  
 * Academic performance was self-reported in marks categories  
 * School connectedness was measured via 3 self-reported questions  
 * Additional variables such as SES/class and substance use were measured and factored into survey results  
 * 34.9% of students reported 3-4 hrs/day of technology use, and 35.8% reported \>5 hrs/day.   
-  * Another statistic showing how prevalent adolescent technology use is  
+    * Another statistic showing how prevalent adolescent technology use is  
 * “Nineteen percent of students reported symptoms that may suggest moderate-to-serious problem technology use, and 2.9% reported symptoms that may indicate a serious problem with technology use.”  
 * **Females were more adversely affected than males among the surveyed students**, using technology for longer and also having moderate-to-serious or serious symptoms of problematic use more frequently   
-  * Interestingly, “daily technology use of 3 to 4 h or more than 5 h were associated with lower academic performance among females, while only daily use of more than 5 h was associated with lower academic performance among males,” showing that technology use may affect adolescents in differing ways based on sex  
-  * Self-reported effects of technology use amongst adolescents on females (A) vs males (B):  
+    * Interestingly, “daily technology use of 3 to 4 h or more than 5 h were associated with lower academic performance among females, while only daily use of more than 5 h was associated with lower academic performance among males,” showing that technology use may affect adolescents in differing ways based on sex  
+    * Self-reported effects of technology use amongst adolescents on females (A) vs males (B):  
     ![][image1]  
 * “**Daily technology use of more than 5 h was … associated with lower levels of school connectedness**”   
 * **Moderate-to-serious technology use symptoms correlated with lower academic performance and lower school connectedness** throughout entire adolescent student sample

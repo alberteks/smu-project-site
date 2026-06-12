@@ -11,7 +11,7 @@
 * **48.9% of youths used social media for 1-3 hrs daily**, and **32.3% spent 4-6 hrs daily**  
 * **41.7% of the participants** (and just under 60% of female participants) were found via EAT-26 to **have a likely chance of developing eating disorders**. Similarly **42% overall** and 57.8% of female participants **were labeled as having social media addiction** based on the SNAS  
 * “The tendency towards social media addiction significantly differed based on age … **Youths aged 18-21 years had higher scores for social media addiction**”   
-  * Shows that younger populations may be more susceptible to excessive social media use, or at the very least use it far more frequently than older populations and therefore have a greater amount impacted by potential negative effects  
+    * Shows that younger populations may be more susceptible to excessive social media use, or at the very least use it far more frequently than older populations and therefore have a greater amount impacted by potential negative effects  
 * Associating results of EAT-26 and SNAS for participants, **social media had weak positive relationship** w/ overall eating disorders, particularly **with bulimia and food preoccupation**   
     
 * Note that, as other self-report study methodologies, this may be susceptible to response bias so other studies on this topic would be useful 

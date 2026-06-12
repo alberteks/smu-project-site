@@ -2,18 +2,18 @@
 (*Published Sep 1 2024\)*
 
 -  Study “examines the relationship between social media addiction and academic procrastination among Grade 11 students” (354)  
-  - Cites academic procrastination as having adverse effects on academic performance, and increased understanding of SMU’s impact on procrastination therefore being potentially important to improve outcomes  
+    - Cites academic procrastination as having adverse effects on academic performance, and increased understanding of SMU’s impact on procrastination therefore being potentially important to improve outcomes  
 - Research method: quantitative, descriptive-correlational  
-  - Used two sets of online questionnaires adapted from authors of previous studies: Social Media Addiction Scale – Student Form (SMAS-SF) and Academic Procrastination Scale (adapted from Yockey 2016\)  
+    - Used two sets of online questionnaires adapted from authors of previous studies: Social Media Addiction Scale – Student Form (SMAS-SF) and Academic Procrastination Scale (adapted from Yockey 2016\)  
 - Study both gauged levels of social media addiction among cohort participants, and also self-reported levels of procrastination w/ aim to determine potential correlation/association between these variables  
 - Population was Grade 11 students from private college in Indonesia, in 2022-2023
 
 - SMAS–SF questionnaire determined that **virtual tolerance, virtual information, virtual communication, and virtual problems were moderately (sometimes) manifested among** the **students**  
-  - Findings here aligned w/ previous literature; authors conclude that **“while social media can be highly engaging and sometimes addictive; its impact varies in intensity among users”** (357)  
-    - In general, **“moderate use is more common than extreme dependency”** (357), meaning that **any associations between social media *addiction* and other variables should be taken w/ grain of salt for most individuals**; it is only relevant at the upper extreme of social media users  
+    - Findings here aligned w/ previous literature; authors conclude that **“while social media can be highly engaging and sometimes addictive; its impact varies in intensity among users”** (357)  
+        - In general, **“moderate use is more common than extreme dependency”** (357), meaning that **any associations between social media *addiction* and other variables should be taken w/ grain of salt for most individuals**; it is only relevant at the upper extreme of social media users  
 - Study also found **moderate levels of academic procrastination among students based on Academic Procrastination Scale**, with all but one (which was high) metrics receiving a descriptive equivalent of “moderate” based on their points on the scale (358)  
 - Ultimately, the **researchers found “no significant relationship between social media addiction and academic procrastination among Grade 11 students”** (359)  
-  - Authors pointed to other factors, “such as time management skills, motivation, and fears of failure” potentially playing more significant role in mediating procrastination levels rather than social media use (based on previous literature) (359)  
+    - Authors pointed to other factors, “such as time management skills, motivation, and fears of failure” potentially playing more significant role in mediating procrastination levels rather than social media use (based on previous literature) (359)  
 - Authors concluded that **“social media addiction of the students was sometimes observed, suggesting that while social media plays a significant role in students’ lives, its impact is not overwhelming detrimental”** (359)  
-  - At the same time, since **“social media addiction was not significantly correlated to the students’ academic procrastination**,**”** the authors called for future research on other factors impacting academic procrastination (359)  
-    - Also suggested longitudinal studies w/ diverse demographics/educational settings checking the relationship (in this case, lack thereof) between between social media addiction and academic procrastination
+    - At the same time, since **“social media addiction was not significantly correlated to the students’ academic procrastination**,**”** the authors called for future research on other factors impacting academic procrastination (359)  
+        - Also suggested longitudinal studies w/ diverse demographics/educational settings checking the relationship (in this case, lack thereof) between between social media addiction and academic procrastination

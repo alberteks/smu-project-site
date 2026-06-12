@@ -3,12 +3,12 @@
 
 * Primary aim: track human brain development from childhood through adolescence to determine biological/environmental factors that impact/alter developmental trajectories  
 * Methods:  
-  * Recruit 10,000 9-10 year olds across the U.S.  
-  * Brain imaging (fMRI)   
-    * Monetary Incentive Delay (MID) task  
-    * Stop Signal task (SST)  
-    * Emotional version of the n-back task (EN-back)  
-  * Domains of function: reward processing, motivation, impulsivity, impulse control, working memory & emotion regulation
+    * Recruit 10,000 9-10 year olds across the U.S.  
+    * Brain imaging (fMRI)   
+        * Monetary Incentive Delay (MID) task  
+        * Stop Signal task (SST)  
+        * Emotional version of the n-back task (EN-back)  
+    * Domains of function: reward processing, motivation, impulsivity, impulse control, working memory & emotion regulation
 
 ![][image1]  
 fMRI Tasks
@@ -18,20 +18,20 @@ fMRI Tasks
 ![][image2]
 
 * Measures the original CRAN ABCD RFA domains of reward processing, including anticipation and receipt of reward & losses, and trial-by-trial motivation in speeded responses to win or avoid loss  
-  * Robust activator of the ventral striatum (brain region involved in reward, motivation, and decision-making, relying heavily on dopamine)  
-  * Task is sensitive to developmental and addiction-related effects & has a good within-subject reliability over time  
-  * Trials:  
-    * Each trial begins w/ an incentive cue (2000 ms) of five possible trial types (Win $.20, Win $5, Lose $.20, Lose $5, $0-no money at stake) and is followed by a jittered anticipation event (1500-4000 ms)  
-    * Next, variable target (150-500 ms) appears during which the participant responds either to win money or avoid losing it  
-      * Followed by feedback message informing participant of outcome  
-    * Task performance is individualized w/ initial response target duration based on participant’s performance during practice session prior to scanning  
-    * Performance is calculated as the average reaction time (RT) on correct trials plus two standard deviations   
-  * Primary conditions modeled:  
-    * Reward vs. no money anticipation  
-    * Loss vs. no money anticipation  
-    * Reward positive feedback vs. reward negative feedback  
-    * Loss positive feedback vs. loss negative feedback  
-  * Each participant receives 40 reward & loss anticipation trials and 20 no money anticipation trials
+    * Robust activator of the ventral striatum (brain region involved in reward, motivation, and decision-making, relying heavily on dopamine)  
+    * Task is sensitive to developmental and addiction-related effects & has a good within-subject reliability over time  
+    * Trials:  
+        * Each trial begins w/ an incentive cue (2000 ms) of five possible trial types (Win $.20, Win $5, Lose $.20, Lose $5, $0-no money at stake) and is followed by a jittered anticipation event (1500-4000 ms)  
+        * Next, variable target (150-500 ms) appears during which the participant responds either to win money or avoid losing it  
+            * Followed by feedback message informing participant of outcome  
+        * Task performance is individualized w/ initial response target duration based on participant’s performance during practice session prior to scanning  
+        * Performance is calculated as the average reaction time (RT) on correct trials plus two standard deviations   
+    * Primary conditions modeled:  
+        * Reward vs. no money anticipation  
+        * Loss vs. no money anticipation  
+        * Reward positive feedback vs. reward negative feedback  
+        * Loss positive feedback vs. loss negative feedback  
+    * Each participant receives 40 reward & loss anticipation trials and 20 no money anticipation trials
 
 ![][image3]
 
@@ -40,37 +40,37 @@ fMRI Tasks
 ![][image4]
 
 * Engages core brain networks and RFA domains of impulsivity and impulse control  
-  * Activates key brain regions across subjects with impulsivity problems  
-  * Shows adolescent-specific and addiction effects  
-  * Task requires participants to withhold or interrupt a motor response to a “Go” stimulus when it is followed by unpredictability by a signal to stop  
-  * Trials:  
-    * Begins w/ the presentation of a leftward or rightward pointing arrow in black on a mid-grey background  
-    * Participants instructed to indicate the direction of the arrow, responding “as quickly and accurately as possible” via a two-button response panel  
-    * 16.67% are “Stop” trials on which the leftward or rightward facing arrow is followed unpredictably by the “Stop Signal”, that is an up-right arrow presented for 300 ms  
-    * Greater frequency of “Go” trials establishes a strong prepotent “Go” response  
-  * SSRT (stop signal reaction time) appears to decrease over runs indicating improved inhibitory ability over time
+    * Activates key brain regions across subjects with impulsivity problems  
+    * Shows adolescent-specific and addiction effects  
+    * Task requires participants to withhold or interrupt a motor response to a “Go” stimulus when it is followed by unpredictability by a signal to stop  
+    * Trials:  
+        * Begins w/ the presentation of a leftward or rightward pointing arrow in black on a mid-grey background  
+        * Participants instructed to indicate the direction of the arrow, responding “as quickly and accurately as possible” via a two-button response panel  
+        * 16.67% are “Stop” trials on which the leftward or rightward facing arrow is followed unpredictably by the “Stop Signal”, that is an up-right arrow presented for 300 ms  
+        * Greater frequency of “Go” trials establishes a strong prepotent “Go” response  
+    * SSRT (stop signal reaction time) appears to decrease over runs indicating improved inhibitory ability over time
 
 ![][image5]
 
 * EN-back Task  
   ![][image6]  
-  * Engages memory and emotion regulation process   
-  * Memory component of the n-back activates core brain networks relevant for working memory  
-  * Contains both high and low memory load conditions and the comparison of the two allows for assessment of activation specifically associated w/ working memory (as opposed to cognitive function more generally)  
-  * Stimuli include a set of happy, fearful and neutral facial expressions  
-    * Cognitive processing of these stimuli taps fronto-amygdala circuitry and functions involved in emotion reactivity and regulation and taps ventral frontostriatal circuitry implicated in reward \-\> reliable for measuring emotional reactivity   
-  * Trials:  
-    * Two runs of eight blocks each  
-    * On each trial, participants asked to respond as to whether the picture is a “Match” or “No Match”  
-    * Accuracy for the two memory load conditions (0- and 2-back) for each stimulus type (emotional faces, neutral faces, places) and across stimulus types, are the primary dependent measures  
-  * Fronto-parietal and fronto-thalamic activity previously associated with manipulation and maintenance of information in memory is observed for the main contrast of the 2-back vs the 0-back condition  
+    * Engages memory and emotion regulation process   
+    * Memory component of the n-back activates core brain networks relevant for working memory  
+    * Contains both high and low memory load conditions and the comparison of the two allows for assessment of activation specifically associated w/ working memory (as opposed to cognitive function more generally)  
+    * Stimuli include a set of happy, fearful and neutral facial expressions  
+        * Cognitive processing of these stimuli taps fronto-amygdala circuitry and functions involved in emotion reactivity and regulation and taps ventral frontostriatal circuitry implicated in reward \-\> reliable for measuring emotional reactivity   
+    * Trials:  
+        * Two runs of eight blocks each  
+        * On each trial, participants asked to respond as to whether the picture is a “Match” or “No Match”  
+        * Accuracy for the two memory load conditions (0- and 2-back) for each stimulus type (emotional faces, neutral faces, places) and across stimulus types, are the primary dependent measures  
+    * Fronto-parietal and fronto-thalamic activity previously associated with manipulation and maintenance of information in memory is observed for the main contrast of the 2-back vs the 0-back condition  
     ![][image7]  
 * Post-scan assessments:  
-  * Immediately following scanning, participants administered ABCD arousal state questionnaire again, followed by an Emotional n-back Recognition Memory task and brief MID task questionnaire  
+    * Immediately following scanning, participants administered ABCD arousal state questionnaire again, followed by an Emotional n-back Recognition Memory task and brief MID task questionnaire  
 * EN-back recognition memory task \-\> measures short-term memory processes that tap hippocampal functioning, implicated in substance use/abuse  
-  * 96 pictures presented  
-  * Participants asked to rate each picture as either “Old” or “New”   
-  * Each picture is presented for 2 s followed immediately by a 1 s presentation of a fixation cross
+    * 96 pictures presented  
+    * Participants asked to rate each picture as either “Old” or “New”   
+    * Each picture is presented for 2 s followed immediately by a 1 s presentation of a fixation cross
 
 ![][image8]
 

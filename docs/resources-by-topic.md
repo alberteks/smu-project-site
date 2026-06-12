@@ -1,4 +1,4 @@
-List of all resources by module topic (\*\*note: resources repeat between lists. any source that has info about a given subject is included in that subject’s list\*\*).
+List of all resources by module topic (*note: resources repeat between lists. any source that has info about a given subject is included in that subject’s list*).
 
 # Context/Usage Stats
 
@@ -7,7 +7,7 @@ List of all resources by module topic (\*\*note: resources repeat between lists.
 - [Children’s engagement with digital devices, screen time](childrens-engagement-with-digital-devices.md)   
 - [Teens, Social Media and Technology 2024](teens-social-media-and-technology-2024.md)   
 - [Online Social Networking in Adolescence: Patterns of Use in Six European Countries and Links With Psychosocial Functioning](online-social-networking-in-adolescents-patterns.md)   
-- [Problem Technology Use, Academic Performance, and School Connectedness among Adolescents problem-technology-use-academic-performance-connection.md) 
+- [Problem Technology Use, Academic Performance, and School Connectedness among Adolescents](problem-technology-use-academic-performance-connection.md) 
 
 # Interpersonal Relationships
 

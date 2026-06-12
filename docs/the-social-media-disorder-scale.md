@@ -3,18 +3,18 @@
 *(Published: Aug 2016\)*
 
 * Authors argue previous studies have established compulsive social media use as a real mental health issue for adolescents, but that there is insufficient consensus within the scientific community on how to reliably define or measure it  
-  * Specifically, **argue for a standardized system measuring overall social media addiction tendencies** rather than individual “measurement instruments tapping into particular forms of compulsive social media use” (separating measurement metrics across different social media platforms, for example)  
-  * No way to obtain consistent results across the field w/o a consistent measurement and definition metric  
+    * Specifically, **argue for a standardized system measuring overall social media addiction tendencies** rather than individual “measurement instruments tapping into particular forms of compulsive social media use” (separating measurement metrics across different social media platforms, for example)  
+    * No way to obtain consistent results across the field w/o a consistent measurement and definition metric  
 * Due to the (at the time of publishing) latest inclusion of Internet Gaming Disorder (IGD) in the Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition (DSM-5), and the overarching similarities between behavioral gaming/Internet addiction and social media compulsive use, the authors included the same nine criteria as IGD in their SMD scale  
 * They also cited [Valkenburg & Peter, 2011](https://psycnet.apa.org/record/2011-01546-004) to argue that “**SMD can be expected to be particularly disturbing for the psychological development of adolescents**,” and therefore specifically created the scale to gauge adolescent SMD  
 * Emphasize importance of scale being short & easy to administer (for consistent responses and results over time)  
     
 * Researchers first outlined 27 items (3 for each of the nine DSM-5 criteria) to be evaluated amongst a first sample of just under 2200 adolescents; then **selected** just **nine factors “with the highest factor loading per criterion”** and compared efficacy to 27-item survey (in another sample w/ \~1300 individuals aged 10-17)   
-  * Found that short **SMD scale** was “strongly correlated with the 27-item SMD scale … and **showed good reliability**,” **while taking only 45s to complete** as opposed to over 2 mins for the longer survey  
+    * Found that short **SMD scale** was “strongly correlated with the 27-item SMD scale … and **showed good reliability**,” **while taking only 45s to complete** as opposed to over 2 mins for the longer survey  
 * The selected nine-item scale (each item covering a criterion from the DSM-5):  
   ![][image1]  
 * Researchers established efficacy of the scale via “convergent validity” (the correlation between the scale items and expected self-reported issues related to SMD)  
-  * Found that the **short-item scale “showed large positive correlations with compulsive Internet use … and medium to large correlations with self-declared social media addiction”**  
+    * Found that the **short-item scale “showed large positive correlations with compulsive Internet use … and medium to large correlations with self-declared social media addiction”**  
 * As with IGD cutoff in DSM-5, diagnosis of ‘disordered social media user’ **requires at least 5/9 criteria to be met by an individual**  
 * Researchers concluded nine-item SMD scale is overall satisfactorily effective: “the SMD scales showed moderate relationships in the expected direction with depression, attention deficit and frequency of daily social media use, weak to moderate associations with loneliness and impulsivity,” although only “a weak negative association … with self-esteem”  
 * **Main limitation** of this scale **is its reliance on the nine criteria for IGD used in DSM-5**; IGD is a very recent addition as a formal disorder as well, and criteria **may** therefore **warrant** discussion and/or **modification** for maximal accuracy

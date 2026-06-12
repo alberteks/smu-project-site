@@ -5,9 +5,9 @@
 \*Notes: the format/layout of these apps may have changed as of the publication of this article so specific directions (e.g., “click on this located at the top right corner” may no longer apply); basically all of this “notes summary” is just copy-pasted from the article :)
 
 * If you’re looking for approaches beyond adjusting your social media settings, there are many things you can try, including:   
-  * Setting specific time blocks for social media and sticking to them  
-  * Turning off notifications  
-  * Establishing certain times of day or areas (e.g., classrooms, car/bus, rooms in your home) where you won’t use social media
+    * Setting specific time blocks for social media and sticking to them  
+    * Turning off notifications  
+    * Establishing certain times of day or areas (e.g., classrooms, car/bus, rooms in your home) where you won’t use social media
 
 **Instagram**
 

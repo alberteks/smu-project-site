@@ -3,30 +3,30 @@
 *(Published Jul 2018\)*
 
 * Researchers **used fMRI technology** with 61 participants (ages 13-21 y.o.; 3 excluded from final sample) **to determine neural correlates of providing social feedback (likes) on an environment mimicking Instagram**  
-  * Note **mean age was \~18 y.o.**, so potential differences between adolescent and adult effects not factored into this study   
+    * Note **mean age was \~18 y.o.**, so potential differences between adolescent and adult effects not factored into this study   
 * Hypothesis was activation of reward circuits: dorsal and ventral striatum, ventromedial prefrontal cortex (vmPFC), and ventral tegmental area (VTA)  
 * Participants submitted photographs to be evaluated by others in study, and then were instructed to press “like” (referred to just as “Like” throughout study and rest of notes) or “next” in an Instagram-resembling platform on what researchers told them were others’ images while undergoing fMRI scanning in a laboratory setting   
-  * Were told to evaluate whether to Like an image or not based on same criteria they typically use on SM  
-  * Likes were actually randomly assigned to photos to later be shown to participants and gauge reactions/activation of brain areas. Images shown to participants when choosing to Like or “dislike” were selected from public images already on Instagram. This information was only made available to participants after the study, however  
+    * Were told to evaluate whether to Like an image or not based on same criteria they typically use on SM  
+    * Likes were actually randomly assigned to photos to later be shown to participants and gauge reactions/activation of brain areas. Images shown to participants when choosing to Like or “dislike” were selected from public images already on Instagram. This information was only made available to participants after the study, however  
 * The 148 different photos shown to participants were categorized by the researchers into 3 types: “neutral images resembling typical Instagram photos,” “images depicting risk-taking behaviors,” and “images submitted by the participant”  
-  * Images depicting risk-taking showed too low variability to contrast individuals’ choices to like or move on from risky vs. non-risky images. Risk-taking images were therefore excluded from analysis  
+    * Images depicting risk-taking showed too low variability to contrast individuals’ choices to like or move on from risky vs. non-risky images. Risk-taking images were therefore excluded from analysis  
 * Participants were also surveyed after going through all images in the lab. Were prompted to rank importance of several factors to their decision to like or move on from images, and also asked to gauge whether they primarily went with ‘gut instinct’ or logical rationale for liking images  
 * 41 out of 58 participants also rated each photograph they had been presented with after the MRI scan, this time not being able to see the number of likes on each image, the ‘like’ or ‘next’ buttons, or the mock Instagram menu bar interface. They were told this rating was for research purposes so the same social factors as with providing a Like were, in theory, not at play  
-  * Ranked on scale of 1-7, and were not instructed to rate them on any specific criteria  
-  * This data enabled the researchers to distinguish between reward circuitry activated in the brain from the social aspects of ‘liking’ a photo, and the inherent experience of viewing a more appealing image  
-    * “Conducted a correlation analysis to determine if photographs with higher average participant ratings were also Liked by more participants” and “examined which brain regions were more active for more highly rated images”   
+    * Ranked on scale of 1-7, and were not instructed to rate them on any specific criteria  
+    * This data enabled the researchers to distinguish between reward circuitry activated in the brain from the social aspects of ‘liking’ a photo, and the inherent experience of viewing a more appealing image  
+        * “Conducted a correlation analysis to determine if photographs with higher average participant ratings were also Liked by more participants” and “examined which brain regions were more active for more highly rated images”   
         
 * “Images depicting objects (e.g. food, possessions) were significantly more likely to be Liked than images depicting faces”   
 * **64.1% of participants ranked “the image was visually appealing” as the top reason for deciding to ‘like’ an image**, and **12.8%** ranked **“the image was similar to one I might take”** as their top choice  
-  * Other options included “the image depicted an activity I enjoy” (10.3%), “the image was funny” (5.1%), and “the image contained one or more attractive people” (2.6%)  
+    * Other options included “the image depicted an activity I enjoy” (10.3%), “the image was funny” (5.1%), and “the image contained one or more attractive people” (2.6%)  
 * **63.4% of participants reported** that **they chose to ‘like’** or move on from an image **based on ‘gut instinct’**  
 * “**When participants Liked an image, they showed activation in the ventral striatum and vmPFC**”--both key regions involved in reward circuit  
 * **Brain regions w/ greater activation when participants saw their photographs had a large number of Likes** vs. few:  
   ![][image1]  
-  * Include **dorsal and ventral striatum**, **thalamus**, **brain stem/VTA**, **medial and bilateral prefrontal cortex**, **primary and supplementary motor cortex**, **occipital cortex** & **cerebellum**  
+    * Include **dorsal and ventral striatum**, **thalamus**, **brain stem/VTA**, **medial and bilateral prefrontal cortex**, **primary and supplementary motor cortex**, **occipital cortex** & **cerebellum**  
 * “The experience of providing a Like to another person and receiving many Likes from others was related to activation in several of the same brain regions,” with the largest clusters of overlap being “the lateral occipital cortex leading into the fusiform cortex, temporoccipital cortex and parahippocampal gyrus” and the “bilateral ventral and dorsal striatum, thalamus, hippocampus, and VTA/brain stem”  
 * “Photographs that were more highly rated for their overall quality were Liked by a higher proportion of participants, … suggesting that **neural responses to Liked photos may have been due at least in part to the aesthetic quality of the image**”   
-  * At the same time, **however**, with regressors added for both ratings and Likes in the model “**participants’ Like responses independently predicted activation in parts of the striatum**.” This activation of the reward circuit even when separating the choice to Like and the judgement of an image as appealing shows that, **while aesthetic quality of an image explains part of the neural response to Liking photos, there is something else inherently occurring from the action of a Like response too**:  
+    * At the same time, **however**, with regressors added for both ratings and Likes in the model “**participants’ Like responses independently predicted activation in parts of the striatum**.” This activation of the reward circuit even when separating the choice to Like and the judgement of an image as appealing shows that, **while aesthetic quality of an image explains part of the neural response to Liking photos, there is something else inherently occurring from the action of a Like response too**:  
     ![][image2]
 
       

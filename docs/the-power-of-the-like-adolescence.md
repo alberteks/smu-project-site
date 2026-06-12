@@ -9,17 +9,17 @@
 * Methodology of this study was roughly the same as [the primary author’s other investigation of Likes](what-the-brain-likes-neural-correlates.md). **Participants submitted** their **own photos and were told they would form part of an internal social network, but** then **images were randomly selected from public Instagram pages and were shown to participants w/ randomly assigned Like counts**, **along with their own images** containing randomly assigned Like counts  
 * Participants were shown 148 unique photos, including 66 “neutral, nonrisky images” and 42 “risky images”   
 * “Across all photos presented during the scan, **participants matched their peers significantly more frequently than expected by chance” in their choice to Like or move on** from a photo  
-  * Shows that “**supposed opinion of peers**” likely **influences individual decision to Like** certain photos  
-    * Interestingly, was true **across all of neutral, “risky,” and own images**, meaning that peer pressure may have taken precedence over rational judgement of activities  
+    * Shows that “**supposed opinion of peers**” likely **influences individual decision to Like** certain photos  
+        * Interestingly, was true **across all of neutral, “risky,” and own images**, meaning that peer pressure may have taken precedence over rational judgement of activities  
 * Different brain regions were associated with liking an image across the three categories: **viewing neutral images w/ many likes** compared to few “**showed significantly greater activity in the visual cortex extending to the precuneus and in the cerebellum**,” **viewing risky images w/ many likes** compared to few **showed significantly greater activity “in one cluster in the left frontal cortex, extending from the precentral gyrus through the middle frontal gyrus and inferior frontal gyrus**,” and finally **viewing own photos w/ many likes** **lead to heightened activity in** many brain **regions associated** primarily **with social cognition and reward learning & motivation**  
 * **When viewing risky images ostensibly submitted by peers**, “**participants demonstrated significantly less activation in a network of regions implicated in cognitive control and response inhibition** … including dorsal anterior cingulate cortex, bilateral prefrontal cortex, and lateral parietal cortex”   
-  * Shows adolescent brain is susceptible to peer pressure/struggles to holistically examine “risky” behaviors
+    * Shows adolescent brain is susceptible to peer pressure/struggles to holistically examine “risky” behaviors
 
   ![][image1] 
 
 * Impact on NAcc was analyzed specifically due to the NAcc’s role in behavior regulation, mood regulation, and reward circuitry   
-  * Found the **NAcc was “implicated in the experience of receiving positive feedback on one’s own images as well as viewing other people’s images that have been endorsed by peers”**   
-  * They also note that **NAcc activity was especially heightened in relation to the adolescents’ own photos receiving likes**, **supporting** the hypothesis **that self-presentation is a crucial part of adolescent values** and is **expressed via SM**  
+    * Found the **NAcc was “implicated in the experience of receiving positive feedback on one’s own images as well as viewing other people’s images that have been endorsed by peers”**   
+    * They also note that **NAcc activity was especially heightened in relation to the adolescents’ own photos receiving likes**, **supporting** the hypothesis **that self-presentation is a crucial part of adolescent values** and is **expressed via SM**  
 * Researchers concluded that “**the popularity of a photo had a significant effect on the way that photo was perceived**. **Adolescents were more likely to like a photo—even one portraying risky behaviors**, such as smoking marijuana or drinking alcohol**—if that photo had received more likes from peers**”  
     
 * Interesting extension of this study would be comparison of in-person vs. online social pressure’s impact on decision making—is it more pronounced in one or the other environment? 

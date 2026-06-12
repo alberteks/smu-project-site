@@ -3,10 +3,10 @@
 *(Published Oct 2019\)*
 
 * Cross-sectional data using Millenium Cohort Study, “a large nationally representative UK birth cohort study”   
-  * Sample was 11872 adolescents 13-15 y.o.  
-  * Measured SMU & sleep using “single-item self-report questions”   
-    * Survey question on SMU was “On a normal week day during term time, how many hours do you spend on social networking or messaging sites or Apps on the internet such as Facebook, Twitter, and WhatsApp?” Participants responded by selecting one of 8 categories, 0-7+ hrs  
-    * Typical sleep habits were self-reported in 6 items, assessing “sleep onset and wake times (on school days and free days, separately), sleep onset latency (time taken to fall asleep) and trouble falling back asleep after nighttime awakening”  
+    * Sample was 11872 adolescents 13-15 y.o.  
+    * Measured SMU & sleep using “single-item self-report questions”   
+        * Survey question on SMU was “On a normal week day during term time, how many hours do you spend on social networking or messaging sites or Apps on the internet such as Facebook, Twitter, and WhatsApp?” Participants responded by selecting one of 8 categories, 0-7+ hrs  
+        * Typical sleep habits were self-reported in 6 items, assessing “sleep onset and wake times (on school days and free days, separately), sleep onset latency (time taken to fall asleep) and trouble falling back asleep after nighttime awakening”  
 * Study specifically focuses on association between adolescent SMU and sleep, with the **researchers highlight**ing **need for more specific factors being measured than “screen time,” “well-being,” etc. to obtain accurate data** & create guidelines  
 * **Argue that social interaction aspect of SM may exacerbate its effects on sleep**: “A desire for inclusion and belonging mixing with concerns over violating social expectations or etiquette … can make it difficult to disengage from social media at bedtime”   
 * Unlike many others lacking data to do so, the large survey sample size in this study enabled researchers to control for multiple covariates, including demographics, family composition, and psychological well-being and health  
@@ -17,14 +17,14 @@
 * **Median SMU time** per day **was 1 to \<3 hrs** (\~32% of adolescents), **but “21% used social media for at least 5 hours”**   
 * **Controlling** only **for age and sex**, the researchers found that “**very high social media use** (5+ hours) **was associated with higher odds of all six sleep outcomes**,” “high social media use (3 to \<5 hours) was associated with higher odds of all outcomes except for late rise times on free days,” **and “low social media use** (\<1 hour) **was associated with lower odds of late sleep onset on school days and free days and late wake times on free days”**   
 * Controlling for all covariates, the researchers found that “patterns of significant associations for late sleep onset and wake times remained unchanged” but “effect sizes were reduced, particularly for very high social media use”  
-  * Other changes were that “high social media use was no longer significantly associated with long sleep onset latency or frequent nighttime awakenings” and “very high social media \[use\] was no longer significantly associated with long sleep onset latency”   
-    * Suggests that **SMU does play a role in sleep effects**, **but** a **significant amount can be explained by demographic/family situation/psychological well-being** (and perhaps some of these factors can play a role in people using SM more frequently, for example)  
-      * Not all bad–important to be objective when analyzing SMU impact  
+    * Other changes were that “high social media use was no longer significantly associated with long sleep onset latency or frequent nighttime awakenings” and “very high social media \[use\] was no longer significantly associated with long sleep onset latency”   
+        * Suggests that **SMU does play a role in sleep effects**, **but** a **significant amount can be explained by demographic/family situation/psychological well-being** (and perhaps some of these factors can play a role in people using SM more frequently, for example)  
+            * Not all bad–important to be objective when analyzing SMU impact  
 * Table showing (adjusted for all covariates in study) RR (relative risk, compared to average SM use) of sleep-related issues for each category of use:  
   ![][image1]  
-  * Note that an RR of 1.68 for very high SMU individual having late sleep onset on school days, means **adolescents with an average of 5+ hours of SMU per day are 68% more likely than average SMU adolescents to sleep past 11pm**  
+    * Note that an RR of 1.68 for very high SMU individual having late sleep onset on school days, means **adolescents with an average of 5+ hours of SMU per day are 68% more likely than average SMU adolescents to sleep past 11pm**  
 * Authors argue that “low social media users were least likely to fall asleep late, indicating that unlike mental well-being, **optimal outcomes for sleep are associated with minimal—not moderate” SMU**  
-  * Furthermore claim that their findings “are consistent with the idea that social media displaces sleep: either directly or indirectly”   
+    * Furthermore claim that their findings “are consistent with the idea that social media displaces sleep: either directly or indirectly”   
       
 * Limitations of study: does not determine causality, only association. Also (somewhat surprisingly) does not distinguish between impacts due to the fact that SMU occurs on a screen (emitting blue light interfering with sleep, etc.) and SMU itself. To be fair, **researchers’ primary argument is that social media is difficult to disengage from and displaces other daytime activities or keeps adolescents up**, therefore exacerbating typical screen effects. This hypothesis requires more data as it is not explored by this particular study.
 
