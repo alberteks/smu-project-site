@@ -6,6 +6,8 @@ site_name: Social Media & Adolescents
  
 theme:
   name: material
+  logo: assets/smu_site_logo.png
+  favicon: assets/smu_site_logo.png
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
