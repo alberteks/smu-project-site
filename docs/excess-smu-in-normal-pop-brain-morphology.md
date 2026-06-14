@@ -22,14 +22,14 @@
 
 ![][image1]
 
-* In the figure above, diagrams A and B indicate in blue “voxel-wise VMB results,” green “anatomical ROIs used to extract GMV,” and light blue “overlapping regions”  
-    * The horizontal axis in graphs C, D, and E represents individuals’ ESMU score, and the vertical axis (containing arbitrary values) shows the relative GMV in each region. Graph C is ESMU score vs. GMV in left amygdala, graph D is ESMU score vs. GMV in right amygdala, and graph E is ESMU score vs. GMV in right striatum  
-    * The graphs F, G, and H similarly show the left amygdala, right amygdala, and right striatum GMV distribution (respectively) comparing between the relatively-low ESMU control group and relatively-high ESMU case group  
-* Researchers discuss how **lack of differences in prefrontal morphology between the two groups** studied here **may indicate “potential differences between morphology in presumably normal populations with reasonable levels of ESMU and those who present very high levels of ESMU and often meet at-risk for addiction criteria”**  
-* Researchers provide **three possible explanations/interpretations** of this data, which study by itself cannot prove or disprove (it only showed association)**:**  
-1. **People with lower GMV in amygdala/striatum may be more prone to excessive behaviors like ESMU**, since reward pathway may then respond to stimuli faster than inhibition/executive control brain regions intervene  
+* "In the figure above, diagrams A and B indicate in blue “voxel-wise VMB results,” green “anatomical ROIs used to extract GMV,” and light blue “overlapping regions”"  
+    * "The horizontal axis in graphs C, D, and E represents individuals’ ESMU score, and the vertical axis (containing arbitrary values) shows the relative GMV in each region. Graph C is ESMU score vs. GMV in left amygdala, graph D is ESMU score vs. GMV in right amygdala, and graph E is ESMU score vs. GMV in right striatum"  
+    * "The graphs F, G, and H similarly show the left amygdala, right amygdala, and right striatum GMV distribution (respectively) comparing between the relatively-low ESMU control group and relatively-high ESMU case group"  
+* "Researchers discuss how **lack of differences in prefrontal morphology between the two groups** studied here **may indicate “potential differences between morphology in presumably normal populations with reasonable levels of ESMU and those who present very high levels of ESMU and often meet at-risk for addiction criteria”**  
+* "Researchers provide **three possible explanations/interpretations** of this data, which study by itself cannot prove or disprove (it only showed association)"**:**  
+1. **"People with lower GMV in amygdala/striatum may be more prone to excessive behaviors like ESMU**, since reward pathway may then respond to stimuli faster than inhibition/executive control brain regions intervene"  
 2. **“Incentive-sensitization theory”**: suggests **that social media itself may influence amygdala-striatal system** (reward pathway), and this would involve “neural pruning, with the objective to produce a more efficient amygdala-striatal system that can deal with the growing reward processing demands (Kanai and Rees, 2011)”  
-3. **A common factor like genetics could exist that would both mean lower amygdala/striatum GMV**, **and also “more flexible adaptations in response to changes in reward frequency and intensity** (Brewer and Potenza, 2008; Clark, 2002)”
+3. **"A common factor like genetics could exist that would both mean lower amygdala/striatum GMV"**, **and also “more flexible adaptations in response to changes in reward frequency and intensity** (Brewer and Potenza, 2008; Clark, 2002)”
 
    
 

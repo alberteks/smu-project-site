@@ -22,7 +22,7 @@
     * Poor self-image and body image issues  
     * Fear of missing out (FOMO)  
     * Less time learning other ways to relax and have fun  
-* Doctors encourage parents to follow the following screen time guidelines for limiting their child’s use:  
+* Doctors encourage parents to follow the following screen time guidelines for limiting their child’s use:
     * Until 18 months of age limit screen use to video chatting along with an adult (for example, with a parent who is out of town)  
     * Between 18- and 24-months screen time should be limited to watching educational programming with a caregiver  
     * For children 2-5, limit non-educational screen time to about 1 hour per weekday and 3 hours on the weekend days  
