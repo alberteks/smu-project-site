@@ -16,7 +16,7 @@ To quickly find resources by topic, see [this tab](resources-by-topic.md).
 
 ### What is this module, and who is it intended for?
 
-This is an educational module synthesizing takeaways from (as of 2026\) existing scientific research on social media use in adolescents. It also includes information from relevant books, surveys from reputable polling organizations, and news articles/advisories. 
+This is an educational module synthesizing takeaways from (as of 2026) existing scientific research on social media use in adolescents. It also includes information from relevant books, surveys from reputable polling organizations, and news articles/advisories. 
 
 We categorized impacts and information about social media into the following categories: interpersonal relationships, fear-of-missing-out and procrastination, neuroscience on social media, sleep, academic performance, body image & eating disorders, behavioral impacts, and information for parents and educators. We urge you to navigate this module however best suits your personal experiences and/or interests around social media. Information is not sequential, so feel free to jump around sections – no relevant information will be missed.
 
