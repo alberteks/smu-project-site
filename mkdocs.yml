@@ -4,6 +4,8 @@ strict: false
 
 site_name: Social Media & Adolescents
 copyright: "Authors: Albert Eksarevskiy & Selin Iskender"
+extra_css:
+  - stylesheets/extra.css
  
 theme:
   name: material

@@ -45,7 +45,9 @@ At the same time, please note that preconceived notions about social media’s i
 
 ### Structure of module
 
-For your convenience, the most **important takeaways** in each section **are bolded** to help quick navigation. Similarly, concrete *strategies for maximizing digital wellbeing* in each category *are italicized*. 
+For your convenience, the most **important takeaways** in each section **are bolded** to help quick navigation. Similarly, 
+!!! tip "Concrete Strategies for Maximizing Digital Wellbeing"
+    are in a distinct tip box, or info box if a general comment on finding solutions. 
 
 Throughout the module, most acronyms are defined in full at least once, and then referred to by their shortened version. The most common, basic acronyms consistently used are those referring to social media directly: SMU for social media use, PSMU for problematic social media use, and SNS for social networking services. 
 
@@ -117,12 +119,23 @@ Throughout the module, most acronyms are defined in full at least once, and then
 
 ### Strategies for incorporating a healthy mix of in-person and online interpersonal relationships into socialization
 
-- *Schedule meetups, walks, or shared activities with friends in advance – pre-commit*[^12]  
-    - Social media may feel easier to prioritize as a means of communication due to its low barrier for entry (can communicate from anywhere). Committing to time spent in-person for friendships/relationships ahead of time provides a way to balance this, so communication takes place both online and offline  
-- *Schedule phone and/or video calls with people close to you*, if you cannot meet up regularly offline[^12]   
-    - The body language and tone through a call may help balance text/emoji/’like’-only communication that is otherwise common on social media  
-- From time to time, consider *participating in shared activities in your community, such as service groups or hobby clubs, that feel meaningful* to you  
-    - Can help diversify social circles due to the large variety of people attending community events. This could, in part, counteract the potential for echo chambers on social media[^12]
+!!! tip "Strategies for Healthy Socialization"
+
+    **Schedule meetups, walks, or shared activities with friends in advance – pre-commit**[^12]
+
+    Social media may feel easier to prioritize as a means of communication due to its low barrier for entry (can communicate from anywhere). Committing to time spent in-person for friendships/relationships ahead of time provides a way to balance this, so communication takes place both online and offline.
+
+    ---
+
+    **Schedule phone and/or video calls with people close to you**, if you cannot meet up regularly offline[^12]
+
+    The body language and tone through a call may help balance text/emoji/'like'-only communication that is otherwise common on social media.
+
+    ---
+
+    From time to time, consider **participating in shared activities in your community, such as service groups or hobby clubs, that feel meaningful** to you[^12]
+
+    Can help diversify social circles due to the large variety of people attending community events. This could, in part, counteract the potential for echo chambers on social media.
 
 # FoMO & Procrastination
 
@@ -180,32 +193,40 @@ Throughout the module, most acronyms are defined in full at least once, and then
 
 ### Countermeasures against FoMO & procrastination
 
-- Potential strategies to avoid FoMO[^13]:  
-    - *Set status to show availability*  
-    - *Communicate directly w/ contacts about availability and/or maximum time for conversations, in advance*  
-    - *Practice self-talk*, e.g.:  
-        - “I do not expect interaction from others when I post on social media”   
-        - “I am not the only one who does not receive the interaction they expect”  
-        - “I do not need to check each notification immediately”  
-        - “I do not need to know everything about my contacts”  
-        - “I do not need to spend a long time on conversations because I have tasks to do; I have to sleep early, etc.”  
-        - My popularity does not depend on an immediate response to the message”  
-    - *Engage in offline activities – can clean/organize house, talk to people in-person, take a walk, etc.*  
-    - *Create priority list of contacts that are especially important/meaningful to you*  
-        - *Mute notifications, except high-importance*  
-    - *Physically distance yourself from devices from time to time, and engage in activities you enjoy*  
-- For self-help packet summarizing FoMO-R method, developed experimentally by researchers to help combat social media on various major platforms, see [here](https://www.mdpi.com/1660-4601/17/17/6128/s1) (download link)[^62]  
-    - Core tools of method:  
-1) *Self talk: use “do not” when resisting temptation*  
-- “I don’t do X”  
-2) *Expectation management: use cognitive reappraisal method*  
-- Post on social media w/o expecting interaction from others, clarify to others that may not always reciprocate interaction immediately, and make clear current situation to contacts (e.g. if studying for an exam and unable to check messages)  
-3) *Enhance self-esteem*  
-- Use positive self talk; see potential self-talk strategies for FoMO in section above  
-- Potential strategies to discourage procrastination[^15]:  
-    - *Set up autoreply which conveys expectation for later response time*  
-    - *Set usage reminders on apps (using tools like Google Digital Wellbeing) and/or time restrictions (by total time on app, or time of day)*  
-    - *Set boundaries with friends on availability to respond, in advance*
+Potential strategies to avoid FoMO[^13]:
+
+!!! tip "Strategies to Avoid FoMO"
+
+    - Set status to show availability
+    - Communicate directly w/ contacts about availability and/or maximum time for conversations, in advance
+    - Practice self-talk, e.g.:
+        - "I do not expect interaction from others when I post on social media"
+        - "I am not the only one who does not receive the interaction they expect"
+        - "I do not need to check each notification immediately"
+        - "I do not need to know everything about my contacts"
+        - "I do not need to spend a long time on conversations because I have tasks to do; I have to sleep early, etc."
+        - "My popularity does not depend on an immediate response to the message"
+    - Engage in offline activities – can clean/organize house, talk to people in-person, take a walk, etc.
+    - Create priority list of contacts that are especially important/meaningful to you
+        - Mute notifications, except high-importance
+    - Physically distance yourself from devices from time to time, and engage in activities you enjoy
+
+    For self-help packet summarizing FoMO-R method, developed experimentally by researchers to help combat social media on various major platforms, see [here](https://www.mdpi.com/1660-4601/17/17/6128/s1) (download link)[^62]. Core tools of method:
+
+    1. Self talk: use "do not" when resisting temptation
+        - "I don't do X"
+    2. Expectation management: use cognitive reappraisal method
+        - Post on social media w/o expecting interaction from others, clarify to others that may not always reciprocate interaction immediately, and make clear current situation to contacts (e.g. if studying for an exam and unable to check messages)
+    3. Enhance self-esteem
+        - Use positive self talk; see potential self-talk strategies for FoMO in section above
+
+Potential strategies to discourage procrastination[^15]:
+
+!!! tip "Strategies to Discourage Procrastination"
+
+    - Set up autoreply which conveys expectation for later response time
+    - Set usage reminders on apps (using tools like Google Digital Wellbeing) and/or time restrictions (by total time on app, or time of day)
+    - Set boundaries with friends on availability to respond, in advance
 
 # Neuroscience on Social Media
 
@@ -322,14 +343,18 @@ Throughout the module, most acronyms are defined in full at least once, and then
     - **Timing** of sleep refers to when a person goes to bed and wakes up with a regular routine aligning with natural sleep cycles showing best results. A **review article found several studies that suggested adolescents may postpone bedtime so they can continue using devices for entertainment (behavioral bedtime delay).** When adolescents postpone sleep, they may not be able to also postpone wake-up time, leading to shorter sleep[^76]   
     - Sleep **efficiency** refers to how easy it is for one to fall asleep & return to sleep if they wake in the middle of the night. **Phone alerts may interfere with sleep efficiency**  
     - Sleep duration refers to the total amount of sleep a person gets per day. Number of recommended hours an individual should get changes across development  
-- Tips for promoting healthy adolescent sleep habits:[^28]  
-    - Consider *putting phone on charger somewhere where you can’t reach from bed* to avoid waking up throughout night to check phone  
-        - Can also use phone settings to *silence notifications at night*  
-    - Work to *build bedtime routine that doesn’t include social media in hours leading up to bedtime*  
-        - E.g., showering, choosing outfit for next day, reading, journaling, listening to podcast, doing art  
-        - Build in time for social media earlier in evening  
-    - *Participate in physical activity along with healthy eating to remain alert and awake during day*  
-    - *Aim for recommended amount of sleep each night* based on age & development  
+
+Tips for promoting healthy adolescent sleep habits[^28]:
+
+!!! tip "Tips for Healthy Adolescent Sleep"
+
+    - Consider putting phone on charger somewhere where you can't reach from bed to avoid waking up throughout night to check phone
+        - Can also use phone settings to silence notifications at night
+    - Work to build bedtime routine that doesn't include social media in hours leading up to bedtime
+        - E.g., showering, choosing outfit for next day, reading, journaling, listening to podcast, doing art
+        - Build in time for social media earlier in evening
+    - Participate in physical activity along with healthy eating to remain alert and awake during day
+    - Aim for recommended amount of sleep each night based on age & development
         - Try to keep routine consistent each night to coincide with natural sleep-wake rhythms
 
 # Academic Performance
@@ -356,10 +381,15 @@ Throughout the module, most acronyms are defined in full at least once, and then
     - In a study from 2014 establishing an association between “heavy” (\>=2) social media use and relatively lower academic performance scores, “differences between moderate and heavier users \[were\] … larger for the younger age group” and “the negative effect of heavier use was more pronounced in the younger age group”[^31]  
         - The same study also found that “social competence scores appeared not to differ” between moderate and heavy social networking service users. In fact, **older adolescents** (defined as age 16+) **in the “heavy” use category exhibited slightly higher scores in social competence** metrics **compared to those in the “moderate” use category**.  
             - Provides strong argument for different guidelines for social media usage at different ages  
-    - *One promising avenue for mitigating any potential negative effects* of social media use on academic performance, particularly for adolescents in the younger age group, *may be establishing consistent parental communication*   
-        - The study investigating middle school students’ social media use vs. academic performance found that **parental communication played a significant role in whether school grades increased or decreased**, countering part of the negative correlative relationship between SMU and grades[^30]  
-            - Further investigation is needed to determine whether this moderated the relationship is due to inherent impacts of adolescent-parent interaction, or simply because extensive parental communication often involved limits/expectations being more strictly imposed on social media use.   
-                - Either way, it is worth investigating what actions parents can take to aid young adolescents in navigating healthy social media use. For reference on potential actions, see [here](#info-for-parents-&-educators).
+
+One promising avenue for mitigating any potential negative effects of social media use on academic performance, particularly for adolescents in the younger age group, may be establishing consistent parental communication.
+
+!!! tip "Parental Communication to Help Academic Performance"
+
+    The study investigating middle school students' social media use vs. academic performance found that parental communication played a significant role in whether school grades increased or decreased, countering part of the negative correlative relationship between SMU and grades[^30]
+
+    - Further investigation is needed to determine whether this moderated the relationship is due to inherent impacts of adolescent-parent interaction, or simply because extensive parental communication often involved limits/expectations being more strictly imposed on social media use.
+        - Either way, it is worth investigating what actions parents can take to aid young adolescents in navigating healthy social media use. For reference on potential actions, see [here](#info-for-parents-educators).
 
 # Body Image/Eating Disorders
 
@@ -381,7 +411,9 @@ Throughout the module, most acronyms are defined in full at least once, and then
 - Overall conclusion of the study: “**time spent on social media and number of platforms accessed were generally unrelated to outcomes of interest**,” but “**there were significant** main **effects of viewing weight loss content on social media on** indices of **body image satisfaction and disordered eating behaviors**, with exposure to weight loss content associated with lower body appreciation, greater fears of negative appearance evaluation, and more frequent binge eating”  
 - In a 2024 survey, **17% of highest social media users expressed poor body image** compared with 6% of the lowest users[^3]  
 - Review of 50 studies across 17 countries between 2016 and 2021 suggested that relentless online exposure to largely unattainable physical ideals may trigger a distorted sense of self and eating disorders (particularly among girls)[^35]   
-- Potential Solution: based on research, authors concluded that “**interventions targeting negative consequences of social media use should focus on addressing content consumed**, rather than time spent on social media platforms”[^34]
+!!! info "Thoughts on How to Address this Issue"
+
+    Based on research, authors concluded that "interventions targeting negative consequences of social media use should focus on addressing content consumed, rather than time spent on social media platforms"[^34]
 
 # Behavioral Impacts (Including Stress & Depression)
 
@@ -409,18 +441,23 @@ Throughout the module, most acronyms are defined in full at least once, and then
 - “While online friends can be a significant source of social support, **in-person social support appears to provide greater protection against persecution”**[^41]   
 - According to research study of American teens aged 12-15, those who used social media 3+ hours a day faced twice the risk of having negative mental health outcomes (including depression and anxiety symptoms)[^42]   
 - The impacts of limiting time spent on social media may vary depending on average use. A study found that **college students with limited social media use that were restricted to 30 minutes of social media a day had less depression symptoms than the control group. However, students limited to 30 minutes of social media a day that described themselves as highly active on social media reported more loneliness, anxiety, and low self-esteem.**[^43]  
-- Recommendations for Setting Time Limits:[^43]  
-    - Be easy on yourself   
-        - Acknowledge managing social media is challenging and takes time & practice  
-    - Shift focus to how and why you use social media  
-        - Instead of tracking time, it may be effective to think about when, where, how, and why you use social media  
-        - For instance, think about avoiding social media at bedtime, which has been shown to disrupt sleep. Instead build in time during the day for important activities on social media that can prevent you from using it at night  
-    - Be able to explain why and how you use social media  
-    - Develop a plan w/ parents/caregivers  
-    - It’s (more than) okay to ask for help  
-        - If social media is having a negative effect on your life, *please* reach out to trusted adults for help\!  
-        - If you feel comfortable, talk to your parents/guardians about social media & what you’re struggling with  
-            - E.g., ask them to talk about how they manage their use or what they do when they run into a tricky situation. They might help you think critically about what to do & how to protect yourself and your well-being  
+
+Recommendations for setting time limits:[^43]  
+
+!!! tip "Recommendations for Setting Time Limits"
+
+    - Be easy on yourself
+        - Acknowledge managing social media is challenging and takes time & practice
+    - Shift focus to how and why you use social media
+        - Instead of tracking time, it may be effective to think about when, where, how, and why you use social media
+        - For instance, think about avoiding social media at bedtime, which has been shown to disrupt sleep. Instead build in time during the day for important activities on social media that can prevent you from using it at night
+    - Be able to explain why and how you use social media
+    - Develop a plan w/ parents/caregivers
+    - It's (more than) okay to ask for help
+        - If social media is having a negative effect on your life, *please* reach out to trusted adults for help!
+        - If you feel comfortable, talk to your parents/guardians about social media & what you're struggling with
+            - E.g., ask them to talk about how they manage their use or what they do when they run into a tricky situation. They might help you think critically about what to do & how to protect yourself and your well-being
+   
 - Study surveying U.S. adolescents found that **new media screen activities** (**specifically electronic device use and social media**, rather than any screens like TVs) **had a higher correlation in their relationship to mental health in girls than boys**[^44]  
     - “**Social media use was significantly correlated with depressive symptoms among girls … but not among boys** … (with demographic controls)”   
     - Overall, “**adolescents using social media sites every day were 13% more likely to report high levels of depressive symptoms than those using social media less often**”   
@@ -457,19 +494,23 @@ Throughout the module, most acronyms are defined in full at least once, and then
     - Most teens report preferring to get their news from social media and/or YouTube than traditional news sources  
     - Teens who get news from social media & YouTube are also much more likely to consume news from influencers and content creators who may not be reliable sources   
     - On the flip side, consuming news on social media might increase teens’ likelihood of participating in civic events & volunteering within community  
-- Some things to do to stay connected while protecting mental well-being:[^48]  
-    - Limiting the types of quantity of content you see  
-        - Some resources for adjusting settings:   
-            - Managing content controls – TikTok[^49]   
-            - Navigating tragic events (which can include distressing news coverage & social media content) – TikTok[^50]   
-            - Adjusting sensitive content controls – Instagram[^51]   
-            - How to stop seeing suggested posts with certain words or phrases – Instagram[^52]   
-            - How to manage and adjust recommended content – YouTube[^53]   
-    - Go directly to credible sources  
-        - Some resources for media literacy and identifying credible sources:  
-            - Is This Legit: A Media Literacy Skills Recap[^54]   
-            - Echo Chambers: How They’re Created and How to Avoid Them[^55]   
-            - Tips for Detecting Doctored or Out of Context Videos[^56] 
+
+Some things to do to stay connected while protecting mental well-being:[^48]  
+
+!!! tip "Staying Connected While Protecting Mental Well-Being"
+
+    - Limit the types of quantity of content you see
+        - Some resources for adjusting settings:
+            - Managing content controls – TikTok[^49]
+            - Navigating tragic events (which can include distressing news coverage & social media content) – TikTok[^50]
+            - Adjusting sensitive content controls – Instagram[^51]
+            - How to stop seeing suggested posts with certain words or phrases – Instagram[^52]
+            - How to manage and adjust recommended content – YouTube[^53]
+    - Go directly to credible sources
+        - Some resources for media literacy and identifying credible sources:
+            - Is This Legit: A Media Literacy Skills Recap[^54]
+            - Echo Chambers: How They're Created and How to Avoid Them[^55]
+            - Tips for Detecting Doctored or Out of Context Videos[^56]
 
 ### Identity Development on Social Media
 
@@ -493,15 +534,16 @@ Throughout the module, most acronyms are defined in full at least once, and then
 - Mixed findings about effectiveness of limiting social media use; **setting limits is beneficial for some, could be “detrimental” to others depending how to use it**[^58]   
 - “Knowing that, try to create a culture at home where all phones are turned off by a certain time, and make sure it’s at least one hour before going to bed” –Dr. Poncin[^36]
 
-### Tips on reducing social media use
+### [Tips](tips-to-manage-sm-use-for-teens.md) on reducing social media use
 
-- [Tips](tips-to-manage-sm-use-for-teens.md) on reducing social media use:  
-    - Set focus times, switch on “do-not-disturb” or “focus mode” during times such as designated homework time, school, or bedtime  
-    - Develop schedule including time for offline hobbies/interests  
-        - [Non-screen activities for teenagers](non-screen-activities-for-teenagers.md)   
-    - Plan regular sleep routine that helps with relaxation  
-    - Consider talking to family about establishing Family Media Plan that can provide ideas for rules, guidelines, and shared media experiences  
-    - Explore variety of control settings and understand how to curate feed and see beneficial content[^59] 
+!!! tip "Tips on Reducing Social Media Use"
+
+    - Set focus times, switch on "do-not-disturb" or "focus mode" during times such as designated homework time, school, or bedtime
+    - Develop schedule including time for offline hobbies/interests
+        - [Non-screen activities for teenagers](non-screen-activities-for-teenagers.md)
+    - Plan regular sleep routine that helps with relaxation
+    - Consider talking to family about establishing Family Media Plan that can provide ideas for rules, guidelines, and shared media experiences
+    - Explore variety of control settings and understand how to curate feed and see beneficial content[^59]
 
 [^1]: [Teens, Social Media and Technology 2024](teens-social-media-and-technology-2024.md)
 [^2]: [https://www.commonsensemedia.org/kids-action/articles/tweens-teens-and-phones-what-our-2019-research-reveals](https://www.commonsensemedia.org/kids-action/articles/tweens-teens-and-phones-what-our-2019-research-reveals)
