@@ -6,3 +6,10 @@
     margin-left: 1.5rem;
     padding-left: 1rem;
 }
+.acknowledgement {
+  font-size: 0.8rem;
+  font-style: italic;
+  color: var(--md-default-fg-color--light);
+  border-left: 2px solid var(--md-default-fg-color--lighter);
+  padding-left: 0.8rem;
+}

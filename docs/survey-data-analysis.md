@@ -4,7 +4,9 @@
 
 An electronic survey\* was distributed to all upper school students in Eastside Preparatory School (Kirkland, WA) and Lakeside School (Seattle, WA) in the Spring of 2026\. Data tracing students to specific schools was not recorded, although roughly equal participation from both schools is assumed. Participation was voluntary and completely anonymous. 
 
-\*Thank you to PEW Research Center for inspiration on a number of basic survey questions.
+<p class="acknowledgement" markdown>
+\*Thank you to PEW Research Center[^1] for inspiration on a number of basic survey questions.
+</p>
 
 The raw dataset contains 182 total responses. Three responses were discarded due to clear non-serious entries, leaving a sample of N = 179. Of these, 156 students (approximately 87.2%) reported using social media on at least a “semi-regular basis” and 23 (approximately 12.8%) reported that they do not. Non-users answered a separate question set, therefore most of the data analyses were centered around the 156 users’ responses. 
 
@@ -287,7 +289,7 @@ An “other” option was included where participants were able to type in a fre
 
 ## Discussion
 
-Students in this sample report substantially less social media use (a mean of around 2.08 hours per day) compared to the figure reported by the American Psychological Association in 2024 (a mean of around 4.8 hours per day for U.S. teens)[^1]. The median for our survey is about 1-2 hours, and only 10.9% (17 of 156\) self-reported 4+ hours of social media use per day. It is worth noting that this lower-than-average social media time per day may be due to a multitude of factors, including, but not limited to, the nature of the schools that were surveyed. Both are rigorous, highly competitive private schools in the Seattle/Greater Seattle Area, and one of the schools has a strict no-phone policy throughout campus during the school day. These factors should be taken into account when interpreting results; a population with comparatively lighter social media usage and different kinds of resources at its disposal may lead to different relationships observed compared to groups with heavier social media use on average. 
+Students in this sample report substantially less social media use (a mean of around 2.08 hours per day) compared to the figure reported by the American Psychological Association in 2024 (a mean of around 4.8 hours per day for U.S. teens)[^2]. The median for our survey is about 1-2 hours, and only 10.9% (17 of 156\) self-reported 4+ hours of social media use per day. It is worth noting that this lower-than-average social media time per day may be due to a multitude of factors, including, but not limited to, the nature of the schools that were surveyed. Both are rigorous, highly competitive private schools in the Seattle/Greater Seattle Area, and one of the schools has a strict no-phone policy throughout campus during the school day. These factors should be taken into account when interpreting results; a population with comparatively lighter social media usage and different kinds of resources at its disposal may lead to different relationships observed compared to groups with heavier social media use on average. 
 
 *We now establish a set of hypotheses we generated based on our prior research, and evaluate our data’s support or contradiction of each. We also provide disclaimers for each of these conclusions and any others drawn from the data under that topic.* 
 
@@ -367,7 +369,7 @@ Since data was self-reported, there may be social desirability bias (the desire 
 <div class="li_subsection" markdown>
 #### 3a. Third-person effect
 
-The third-person effect states that people are more likely to believe mass media/society’s messaging impacts others negatively compared to themselves[^2]. This effect may have biased respondents to claiming social media has negative effects for peers as a whole, but reporting less negative effects for themselves in the survey.
+The third-person effect states that people are more likely to believe mass media/society’s messaging impacts others negatively compared to themselves[^3]. This effect may have biased respondents to claiming social media has negative effects for peers as a whole, but reporting less negative effects for themselves in the survey.
 </div>
 
 ### 4. Correlation doesn’t equal causation & confounding factors
@@ -390,5 +392,6 @@ Furthermore, future iterations should have larger samples to address generalizab
 
 Another possible direction for future work is conducting more qualitative interviews in place of the written responses. We could then categorize those responses more rigorously into buckets to expand upon the details of individual usage experience. 
 
-[^1]: [Teens are spending nearly 5 hours daily on social media. Here are the mental health outcomes](https://www.apa.org/monitor/2024/04/teen-social-use-mental-health)
-[^2]: [The Third Person Effect in Communication](https://doi.org/10.1086/268763)
+[^1]: [2022 PEW Research Center's Teens Survey](https://www.pewresearch.org/wp-content/uploads/sites/20/2022/11/PI_2022.11.16_Teens-Social-Media-Connection_TOPLINE.pdf)
+[^2]: [Teens are spending nearly 5 hours daily on social media. Here are the mental health outcomes](https://www.apa.org/monitor/2024/04/teen-social-use-mental-health)
+[^3]: [The Third Person Effect in Communication](https://doi.org/10.1086/268763)
