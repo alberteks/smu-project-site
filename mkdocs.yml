@@ -1,11 +1,12 @@
-site_name: Teens & Social Media Use -- Educational Module
+site_name: Teens & Social Media Use
 site_description: An educational module for teens, parents, & educators about adolescent social media use.
 strict: false
-
-site_name: Social Media & Adolescents
 copyright: "Authors: Albert Eksarevskiy & Selin Iskender"
 extra_css:
   - stylesheets/extra.css
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
  
 theme:
   name: material
@@ -53,7 +54,10 @@ markdown_extensions:
   - pymdownx.highlight
   - pymdownx.tabbed:
       alternate_style: true
+  - pymdownx.arithmatex:
+      generic: true
   - tables
+  - md_in_html
 
 nav:
   - Home: index.md
@@ -117,3 +121,4 @@ nav:
     - What Should Policymakers Do?: what-should-policymakers-do-about-social-media.md
     - What the Brain Likes (Neural Correlates): what-the-brain-likes-neural-correlates.md
     - Windows of Developmental Sensitivity to SM: windows-of-developmental-sensitivity-to-SM.md
+  - Survey Data: survey-data-analysis.md

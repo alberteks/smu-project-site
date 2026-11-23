@@ -2,3 +2,7 @@
 .md-typeset .admonition li {
     font-size: 0.9rem;
 }
+.li_subsection {
+    margin-left: 1.5rem;
+    padding-left: 1rem;
+}
