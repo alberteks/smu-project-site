@@ -20,19 +20,21 @@ Approximately 130 statistical tests were conducted for the dataset at a 5% error
 
 Three robustness checks were done. The hours variable was re-coded in four different ways: top band as 6.5, 7.5, 6.0, and pure rank order, and given that Spearman correlation works with ranks, none of the coefficients changed. Upon re-running the headline correlations, (including the three responses that were excluded) none changed by more than 0.06. Finally, an assessment of the internal consistencies of three composite scales used was conducted: Cronbach’s $\alpha =0.784$ for the six-item negative-habit composite, 0.720 for the four-item positive-feelings scale, and 0.711 for the four-item negative-feelings scale, which are all acceptable.
 
-## **Results by Data Category**
+## Results
 
-**Category I: Social Media Use & Sleep**
+### By Data Category
+
+#### Category I: Social Media Use & Sleep
 
 * Using social media within one hour of going to bed and going to sleep later than planned were significantly associated with one another (ρ = 0.596, 95% CI \[0.48, 0.69\], p = 2.3 × 10⁻¹⁶, q &lt; 0.0001, n = 156.) Total daily hours of sleep lost and daily average hours of social media usage were also correlated (ρ = 0.511, 95% CI \[0.38, 0.62\], q &lt; 0.0001).  
 * 72.4% of students (113/156, 95% CI \[64.9, 78.8\]) self-report using social media within one hour of going to bed “often” or “all the time,” and only 2 students report never doing so. 39.7% (62/156, 95% CI \[32.4, 47.6\]) of students self-report that social media causes them to go to sleep later than planned “often” or “all the time.”
 
-**Category II: Time Spent on Social Media & Academic Procrastination**
+#### Category II: Time Spent on Social Media & Academic Procrastination
 
 * Daily average hours of social media usage and using social media to “consciously put off tasks” are moderately correlated: ρ = 0.452, 95% CI \[0.31, 0.58\], p = 3.1 × 10⁻⁹, q &lt; 0.0001. Procrastination and distraction while “actively working on school-related tasks” were also correlated (ρ = 0.491, q &lt; 0.0001), along with decreased sleep time and procrastination (ρ = 0.490, q &lt; 0.0001).   
 * 49.4% (77/156, 95% CI \[41.6, 57.1\]) of students self-report using social media to put off tasks “often” or “all the time.” Additionally, 76.9% (120/156) self-report being distracted while doing schoolwork at least “sometimes,” and only 5.8% (9 students) report never being distracted by social media while doing schoolwork.
 
-**Category III: Impact of Social Media Use on Teens in Different Age Groups**
+#### Category III: Impact of Social Media Use on Teens in Different Age Groups
 
 * 9th graders in this sample were more likely than 12th graders to self-report that social media has a “mostly negative” personal effect on them. When 9th and 12th graders are compared, the results are as follows: χ² = 10.98, df = 2, p = 0.0041, Cramér's V = 0.368, n = 81; Fisher's exact test on the "mostly negative" split alone gives OR = 4.04, p = 0.0037. Time spent does not differ from grade-to-grade (Kruskal–Wallis H = 0.969, p = 0.809).  
 * Trends do not become more or less pronounced as grade levels rise. 9th graders emerged as an outlier while grades 10 through 12 were more similar to each other, with confidence intervals nearly fully overlapping. Testing for broader trends across levels did not yield any significant results ($\rho =0.174$, $q=0.166$). 
@@ -47,15 +49,15 @@ Three robustness checks were done. The hours variable was re-coded in four diffe
 * Any differences in behavior between 9th graders and other grade levels were not statistically significant. Eleven outcomes were tested across grade levels: daily hours spent on social media, all six habit measures, both feelings composites, and self-rated effect. None survived correction (all $q>0.40,\ {\varepsilon }^{2}\leq 0.047$). 9th graders do not report using social media more, scrolling in bed more, losing more sleep, procrastinating more, or experiencing more negative feelings than 12th graders.  
 * 9th and 12th graders were essentially equally likely to perceive social media’s effect on *people their age* as “mostly negative,” with 78.0% of 9th graders and 80.0% of seniors responding as so (grade$\times$peer effect: ${\chi }^{2}=7.69,\ p=0.2614$). Freshmen only differed on how they perceived social media’s effect on themselves. 
 
-**Category IV: Role of Gender in Mediating Social Media \- Mental Health Associations**
+#### Category IV: Role of Gender in Mediating Social Media \- Mental Health Associations
 
 * Comparing female (n = 82) and male (n = 59) users across eleven outcomes, with FDR correction applied:
 
-| Outcome | Mean F | Mean M | r\_rb | p | q (FDR) |  |
+| Outcome | Mean F | Mean M | r\_rb | p | q (FDR) | Result |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Negative-feelings score (0-8) | 1.93 | 0.92 | \+0.338 | 0.0004 | 0.0044 | significant |
-| Bedtime use | 3.17 | 2.75 | \+0.262 | 0.0050 | 0.0272 | significant |
-| Sleeping later than planned | 2.40 | 1.92 | \+0.241 | 0.0118 | 0.0432 | significant |
+| Negative-feelings score (0-8) | 1.93 | 0.92 | \+0.338 | 0.0004 | 0.0044 | **significant** |
+| Bedtime use | 3.17 | 2.75 | \+0.262 | 0.0050 | 0.0272 | **significant** |
+| Sleeping later than planned | 2.40 | 1.92 | \+0.241 | 0.0118 | 0.0432 | **significant** |
 | Positive-feelings score (0-8) | 3.45 | 2.73 | \+0.212 | 0.0302 | 0.0830 | ns |
 | Morning scroll | 2.17 | 1.78 | \+0.172 | 0.0749 | 0.1584 | ns |
 | Procrastination | 2.60 | 2.29 | \+0.163 | 0.0864 | 0.1584 | ns |
@@ -78,17 +80,17 @@ The most conspicuous differences were in the eight-item feelings battery. With c
 
 All six items survive correction. The social-comparison item regarding feeling worse about one’s own life compared to others shows the widest gap and is the closest measure in this survey to body-image and social-comparison findings described in literature. 
 
-**Additional Statistical Trends: Time Spent and Perceived Personal Effect**
+### Additional Statistical Trends: Time Spent and Perceived Personal Effect
 
 * There is a weak negative association between daily average hours of social media usage and how students rate social media’s effect on them personally ($\rho =-0.191,$ 95% CI \[-0.35, \-0.03\], p = 0.0170, q = 0.029). Students who self-report more hours of social media use are somewhat more likely to rate the effect social media has on them as “mostly negative.” However, this relationship is tenuous since it only accounts for around 3.6% of the variance; furthermore, partial correlation analysis indicates that it is not independent of what students do during those hours on social media:
 
-| Controlling for | Partial $\rho$ | p |  |
+| Controlling for | Partial $\rho$ | p | Effect |
 | :---- | :---- | :---- | :---- |
-| (*nothing — raw*) | \-0.191 | 0.017 |  |
+| (*nothing — raw*) | \-0.191 | 0.017 | N/A |
 | Sleeping later than planned | \-0.076 | 0.349 | drops out |
 | All four behavior habits | \-0.095 | 0.244 | drops out |
-| Procrastination | \-0.180 | 0.025 | holds |
-| Negative-feelings score | \-0.172 | 0.033 | holds |
+| Procrastination | \-0.180 | 0.025 | **holds** |
+| Negative-feelings score | \-0.172 | 0.033 | **holds** |
 
 Of the 66 pairwise correlations tested, 42 survive FDR correction. The strongest links, all q &lt; 0.0001 are as follows:
 
@@ -103,7 +105,7 @@ Of the 66 correlations, 3 are large ($\left|{\rho }\right|\geq 0.50$), 17 modera
 
 The habit most associated with negative feeling is displacement of in-person time; in other words, opting to go on social media rather than engaging with one’s friends or family in-person. It correlates with the negative-feelings score at $\rho =0.379,$ q &lt; 0.0001.
 
-**Notable Non-Significant Trends:**
+### Notable Non-Significant Trends
 
 * Grade level does not predict screen time (H = 0.969, p = 0.809); 9th and 12th graders report nearly identical usage.  
 * Gender does not predict screen time (p = 0.257) or lurking (p = 0.232)  
@@ -111,7 +113,7 @@ The habit most associated with negative feeling is displacement of in-person tim
 * Primary social media platform used does not predict habit intensity (H = 4.777, p = 0.311)  
 * Posting status does not significantly predict perceived personal effect (${\chi }^{2}=3.648,$ p = 0.161)
 
-**What Students Report Experiencing:** 
+### What Students Report Experiencing
 
 The survey contained eight questions about how social media makes students feel: four were framed positively and four negatively. This was the closest way of measuring students’ well being in our survey. Results were the most balanced in our dataset:
 
@@ -130,7 +132,7 @@ The survey contained eight questions about how social media makes students feel:
 
 Daily average hours of social media usage does not predict how students feel. Each of the eight items was correlated against daily hours, with correction applied:
 
-| Item (Social media makes you feel…) | $\rho$ with hours/day | q |  |
+| Item (Social media makes you feel…) | $\rho$ with hours/day | q | Result |
 | :---- | :---- | :---- | :---- |
 | Worse about own life vs others | \+0.184 | 0.0997 | ns |
 | Connected to friends’ lives | \+0.170 | 0.0997 | ns |
@@ -144,7 +146,7 @@ Daily average hours of social media usage does not predict how students feel. Ea
 * For time spent, none survives correction. Daily average hours of social media usage predict behavior (e.g., bedtime or procrastination) much better than feelings.  
 * Students who self-reported feeling worse about their own lives compared to others on social media were more likely to rate social media negatively for themselves ($\rho =-0.218,\ q=0.025$). This was also the case for students self-reporting personally feeling no connection, support, or acceptance on social media ($\rho =+0.228,\ +0.196,\ +0.192{\ }$ respectively, all $q<0.05$). Of the three other negative items (drama, posting pressure, feeling left out), none were found to be associated with overall self-rating after correction was applied.
 
-**Platform Specifics & Habits** 
+### Platform Specifics & Habits
 
 Among the 156 students who report using social media platforms on “at least a semi-regular basis,” platform of choice is fairly concentrated. The platform breakdown is as follows (multi-select multiple choice answers, so totals exceed 100%): 
 
@@ -210,7 +212,6 @@ There was a large gap between how students assessed social media’s overall eff
 | Effect on *me personally* | 66 (42.3%) | 57 (36.5%) | 33 (21.2%) |
 
 * 67 students indicated their belief of social media affecting people their age worse than themselves; only 6 rated people their age as better off (Wilcoxon signed-rank, $p=5.1\times 1{0}^{-12}$). Self and peer ratings are correlated ($\rho =0.423,\ q<0.0001$).   
-  \[Discussion: This is consistent with the third-person effect of judging the media’s effect on others harsher than they would otherwise on themselves. This phenomenon indicates that if students believe others are more affected by social media than them, the 42.3% personal-harm figure is more likely to be a floor.\]  
 * Those who self-report not using any social media platforms on a semi-regular basis tend to exhibit very similar views of social media’s impact on people their age (78.3% vs. 72.4% “mostly negative,” Fisher p = 0.6248), and grade level makes no difference to projection onto peers (p = 0.2614).
 
 Of the 156 students who reported using social media on at least a “semi-regular basis,” 93 report that they post content and 63 report that they use social media (or “lurk”) without posting.
@@ -219,11 +220,11 @@ Of the 156 students who reported using social media on at least a “semi-regula
 
 On the other hand, posting may bidirectionally predict the intensity of experience: 
 
-| Outcome | Posters | Non-posters | r\_rb | Q (FDR) |  |
+| Outcome | Posters | Non-posters | r\_rb | Q (FDR) | Result |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| Positive-feelings score (0-8) | 4.01 | 2.17 | \+0.512 | &lt;0.0001 | significant |
-| Morning scroll | 2.41 | 1.44 | \+0.412 | &lt;0.0001 | significant |
-| Negative-feelings score (0-8) | 1.81 | 1.21 | \+0.226 | 0.0481 | significant |
+| Positive-feelings score (0-8) | 4.01 | 2.17 | \+0.512 | &lt;0.0001 | **significant** |
+| Morning scroll | 2.41 | 1.44 | \+0.412 | &lt;0.0001 | **significant** |
+| Negative-feelings score (0-8) | 1.81 | 1.21 | \+0.226 | 0.0481 | **significant** |
 | Hours per day | 2.30 | 1.77 | \+0.207 | 0.0589 | ns |
 | Bedtime use | 3.05 | 2.83 | \+0.167 | 0.1378 | ns |
 | Sleeping later than planned | 2.20 | 2.10 | \+0.048 | 0.6585 | ns |
@@ -293,7 +294,10 @@ Students in this sample report substantially less social media use (a mean of ar
 
 *We now establish a set of hypotheses we generated based on our prior research, and evaluate our data’s support or contradiction of each. We also provide disclaimers for each of these conclusions and any others drawn from the data under that topic.* 
 
-**Hypothesis I:** Previous research has indicated that frequent social media use in the evening near bedtime is associated with a later sleep time, poorer sleep quality, and decreased duration of sleep. Since many social media apps have a built-in “infinite scroll” feature, adolescents may find it particularly challenging to refrain from lengthy scrolling at bedtime. Furthermore, exposure to the blue light emitted from device screens suppresses melatonin, a hormone that plays a key role in governing the sleep-wake cycle.
+!!! hypothesis ""
+    ### Hypothesis I: Bedtime use and sleep
+
+    Previous research has indicated that frequent social media use in the evening near bedtime is associated with a later sleep time, poorer sleep quality, and decreased duration of sleep. Since many social media apps have a built-in “infinite scroll” feature, adolescents may find it particularly challenging to refrain from lengthy scrolling at bedtime. Furthermore, exposure to the blue light emitted from device screens suppresses melatonin, a hormone that plays a key role in governing the sleep-wake cycle.
 
 **Supported by our data.** The relationship between social media use in the evening near bedtime and later sleep time is the strongest out of the 66 pairwise correlations assessed in the survey. Note, however, that the association between using social media within one hour of going to bed and going to sleep later than planned still only had a correlation of 0.596. This means that the two measures share roughly 36% of their variance. This is a strong association for such a pairwise correlation; however, it still leaves a majority of variation in lost sleep unaccounted for. 
 
@@ -303,18 +307,27 @@ Overall, this correlation seems consistent with prior research on social media (
 
 Finally, note that the impact of "infinite scroll” and blue light emitted from devices, along with quality of sleep, are not assessed in our survey. So, this part of the hypothesis remains untested and should be examined in the future for corroboration. 
 
-**Hypothesis II:** Various correlational studies done in the past observed a positive relationship between time spent on social networks and academic procrastination. Many cited the displacement of focus time offline with heavy social media use as a way of avoiding or putting off school-related assignments.
+!!! hypothesis ""
+    ### Hypothesis II: Time spent and procrastination
+
+    Various correlational studies done in the past observed a positive relationship between time spent on social networks and academic procrastination. Many cited the displacement of focus time offline with heavy social media use as a way of avoiding or putting off school-related assignments.
 
 **Supported by our data.** However, note the association is only moderate, with about 20% of variance shared between time spent and academic procrastination. This correlation is also potentially explained by the converse of the hypothesis; it is possible that students who are already procrastinating simply adopt social media as their distraction of choice over other actions, and social media may have no causation on procrastination if this is the case.   
 Some free-responses from students indicated social media as a reason for procrastination: for example, one reported feeling “very guilty about being on YouTube shorts but can’t seem to stop.” However, this is only anecdotal and subjective, and cannot be used as an indicator of the actual directionality of the correlation factors. It was also not consistent across answers.
 
-**Hypothesis III:** Various studies have suggested the idea of “developmental windows of sensitivity” during adolescence, wherein the negative effects of heavy social media use on academics and various aspects of social life are more pronounced in younger adolescents. 
+!!! hypothesis ""
+    ### Hypothesis III: Developmental windows
+
+    Various studies have suggested the idea of “developmental windows of sensitivity” during adolescence, wherein the negative effects of heavy social media use on academics and various aspects of social life are more pronounced in younger adolescents. 
 
 **Somewhat supported by our data.** Specifically, the claim that freshmen differed from older students is more greatly supported, whereas the claim that vulnerability steadily declines with age or grade level is not statistically supported. Furthermore, since our survey is cross-sectional, it is difficult to judge what other mediating factors besides potential “developmental windows” of age might be affecting the results.
 
 We cannot reliably determine what resulted in the gap between freshman responses and those of other grade-level students. One potential explanation is a difference in how self-critical students from different grades are of their own behavior, another might be the difference in high school experience/social adjustment across different years of schooling, and finally it might have something to do with neurological “developmental windows” as suggested by the hypothesis. Our survey did not have any means of distinguishing or weighting any of these factors. However, the survey found no evidence of a steady trend across all grade levels.
 
-**Hypothesis IV:** Prior studies have outlined that female-identifying individuals have an increased likelihood of being adversely affected by time spent on social media, particularly when it comes to mental health (including symptoms of depression, body image problems, and disordered eating), whereas a direct correlation is seldom found in their male-identifying counterparts.
+!!! hypothesis ""
+    ### Hypothesis IV: Gender differences
+
+    Prior studies have outlined that female-identifying individuals have an increased likelihood of being adversely affected by time spent on social media, particularly when it comes to mental health (including symptoms of depression, body image problems, and disordered eating), whereas a direct correlation is seldom found in their male-identifying counterparts.
 
 **Somewhat supported by our data.** First, note that the social comparison item was a proxy for the symptoms listed in this hypothesis – we did not rigorously test each symptom on its own. Additionally, the effects lean towards self-reported experiences on social media rather than time spent; the data found that gender is not significantly associated with time spent at all $(p=0.257$). Crucially, the pattern is also not one-directional; female students reported more positive experiences as well as negative ones. Furthermore, effect sizes are small to moderate throughout self-reported mental health factors (r\_rb  ≈ 0.21–0.34) in general.
 

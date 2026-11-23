@@ -2,15 +2,19 @@ To quickly find resources by topic, see [this tab](resources-by-topic.md).
 
 # Table of Contents
 
-[Purpose](#purpose)  
-[Interpersonal Relationships](#interpersonal-relationships)  
-[FoMO & Procrastination](#fomo-procrastination)  
-[Neuroscience on Social Media](#neuroscience-on-social-media)  
-[Sleep](#sleep)  
-[Academic Performance](#academic-performance)  
-[Body Image/Eating Disorders](#body-imageeating-disorders)  
-[Behavioral Impacts (Including Stress & Depression)](#behavioral-impacts-including-stress-depression)  
-[Info for Parents and Educators](#info-for-parents-educators)
+<div class="toc-grid" markdown>
+
+- [Purpose](#purpose)
+- [Interpersonal Relationships](#interpersonal-relationships)
+- [FoMO & Procrastination](#fomo-procrastination)
+- [Neuroscience on Social Media](#neuroscience-on-social-media)
+- [Sleep](#sleep)
+- [Academic Performance](#academic-performance)
+- [Body Image/Eating Disorders](#body-imageeating-disorders)
+- [Behavioral Impacts (Including Stress & Depression)](#behavioral-impacts-including-stress-depression)
+- [Info for Parents and Educators](#info-for-parents-educators)
+
+</div>
 
 # Purpose
 
@@ -102,7 +106,7 @@ Throughout the module, most acronyms are defined in full at least once, and then
 - **For many teens, social media is a way of increasing connection experienced in friendships**  
     - 83% of teens using social media state it makes them more connected to information about what is happening in their friends’ lives[^6]  
     - 70% of teens using social media state it makes them better connected to their friends’ feelings[^6]  
-- **Teens w/ access to smartphones that use social media are more likely to report feeling “a lot” more connecting to what is happening in their friends’ lives, compared to teens w/o smartphones**  
+- **Teens w/ access to smartphones that use social media are more likely to report feeling “a lot” more connected to what is happening in their friends’ lives, compared to teens w/o smartphones**  
     - 36% of smartphone owners report feeling “a lot” more connected to friends, compared to 25% of teens w/o smartphone access[^6]  
 - **Different social media platforms have different impacts on perceived friendship closeness over time**  
     - One study found adolescents using WhatsApp and Instagram with their close friends over the course of three weeks improved their self-reported feeling of friendship closeness. However, the same was not true for Snapchat use, where there was no significant impact on friendship closeness–in the short or long term[^7]   
@@ -148,11 +152,11 @@ Throughout the module, most acronyms are defined in full at least once, and then
 
 - **FoMO: “the preoccupation of users of social media with lost opportunities when they are offline or unable or unwilling to** connect and **communicate with others to the extent they wish**”[^13]  
     - Can be further categorized into five primary fears[^13]:   
-1) Fear of “missing the ability to be popular … to others”  
-2) Fear of “missing the ability to be … interesting to others”  
-3) Fear of “not getting the right interpretation of some social interaction”  
-4) Fear of “deal\[ing\] with different social networks at one time”  
-5) Fear of “missing temporarily available information and timely interactions”  
+        1. Fear of “missing the ability to be popular … to others”  
+        2. Fear of “missing the ability to be … interesting to others”  
+        3. Fear of “not getting the right interpretation of some social interaction”  
+        4. Fear of “deal\[ing\] with different social networks at one time”  
+        5. Fear of “missing temporarily available information and timely interactions”  
 - Eventual **consequences of FoMO may include**:[^60] [^61]   
     - **Lack of sleep** – see [here](#sleep) for more sleep-related social media impacts  
     - **Reduced competency in daily activities**  
@@ -242,7 +246,7 @@ Potential strategies to discourage procrastination[^15]:
         - Decrease in DLPFC activation may indicate that teens require less effort to control impulsive behaviors as they mature  
         - Increasing activation seen in habitual checkers suggests they become increasingly sensitive to social feedback anticipation over time and have to exert more effort to maintain cognitive control when anticipating social rewards  
 - “These platforms give adolescents the opportunity for **increased social interaction at a time when their brains are especially sensitive to social feedback, particularly reward feedback**. Over the course of three years, the researchers looked at the brain activity of teens who habitually checked social media against those who didn’t and found changes in the areas of the brain associated with social rewards and punishments. It’s **too early to say if social media was the only cause of these changes, but it does suggest that more studies are needed** to better understand brain development in the age of social media.”   
-  – Dr. Heidi Allison Bender (neuropsychologist w/ NewYork-Presbyterian/Weill Cornell   
+  – Dr. Heidi Allison Bender (neuropsychologist w/ NewYork-Presbyterian/Weill Cornell)   
 - Social media usage weakly associated with a decrease in cerebellum volumes[^20]  
 - A 2024 study found that **“children who spent a longer time on social media usage …had a decrease in cerebellum volume”**[^21]  
     - **Initial social media use** at the start of the study **was not associated with changes** in cerebellum volumes; **decrease in cerebellum size was associated specifically with increases in social media use over the 4-year period**  
@@ -275,7 +279,7 @@ Potential strategies to discourage procrastination[^15]:
 - Social media “like” button could be thought of as a form of “quantifiable social endorsement” that activates specific neural circuitry associated with reward, social cognition, & cognitive control  
 - Impacts of Receiving Likes and Viewing Popularity:[^9]   
     - Activation of reward circuitry   
-        - Nucleus accumbens highly implicated in social media interaction (specifically when receiving positive feedback, aka many likes, one one’s own photos)  
+        - Nucleus accumbens highly implicated in social media interaction (specifically when receiving positive feedback, aka many likes, on one’s own photos)  
     - Study found that adolescents were significantly more likely to “like” a photo if it already received many likes from peers (heightened conformity)  
     - When teens viewed photos with many likes (versus few), they showed greater activations in neural regions associated with social cognition, imitation, and attention. The visual cortex was more active for popular photos (this may suggest scanning popular images with greater care)  
     - When adolescents viewed “risky” photos (depicting alcohol, smoking, etc.), activation in the cognitive-control network (including the dorsal anterior cingulate cortex and prefrontal cortex) decreased  
@@ -294,7 +298,7 @@ Potential strategies to discourage procrastination[^15]:
     - Study found **the most substantial negative relations were found in adolescence**  
         - “The relations in the raw data differed when comparing younger (10-15 years) and older adolescents (16-21 years … ),” showing that **the effects (and therefore healthy approaches to) social media differ based on whether adolescent users are younger or older**   
         - Amongst “older” (16-21 y.o.) adolescents, “those who estimated they engaged in very low or very high social media use reported lower life satisfaction ratings than those who estimated that they used between ‘less than an hour’ and ‘1-3 h’ of social media a day”   
-            - Not observed in younger adolescents (however, younger adolescents “showed more prominent differences between males and females” in SMS impact on life satisfaction)  
+            - Not observed in younger adolescents (however, younger adolescents “showed more prominent differences between males and females” in SNS impact on life satisfaction)  
         - **For females**, the authors observed a **period of sensitivity from ages 11-13**, “when increases in estimated social media use from expected levels predicted a decrease in life satisfaction ratings from expected levels one year later”   
             - This **may be due to** maturation/**developmental processes** in puberty **that occur earlier for females** than males  
         - **For males,** statistically significant, potential **period of sensitivity** is **from ages 14-15**, with similar social media use prediction of lowered satisfaction ratings  
@@ -308,7 +312,6 @@ Potential strategies to discourage procrastination[^15]:
 - **Adolescents who frequently use social media during the day report less total sleep time**[^63] and **poorer sleep quality**[^64]   
 - International research data shows that 4-18% of 15 y/os from 42 countries/regions reported high levels of problematic SMU in 2017-2018[^65] (Problematic social media use: “loss of control over one’s social media use, accompanied by significant impairments in daily-life functioning”[^26])  
 - Frequency of social media use (especially in the evenings) is related to a delay in bedtime[^66], increased difficulty falling asleep[^67] [^68], shorter sleep duration[^67] [^69], and poorer sleep quality[^64] [^70]   
-- Exposure to too much evening light (e.g., blue light from screens) can affect the brain’s clock and the production of the sleep hormone melatonin \-\> disrupts sleep time & quality  
 - “Sleep in teenagers can be improved by just one week of limiting their evening exposure to light-emitting screens on phones, tablets and computers, according to findings to be presented in Lyon, at the European Society of Endocrinology annual meeting, ECE 2019.”[^27]   
     - Study indicates that by simply limiting exposure to blue-light emitting devices in the evening, in one week, adolescents can:  
         - Improve sleep quality  
@@ -332,7 +335,7 @@ Potential strategies to discourage procrastination[^15]:
     - Long-term, it can increase risk of chronic health issues such as obesity, diabetes, and heart disease  
     - Other studies have suggested that sleep deprivation related to screen time may affect children & adolescents more than adults  
 - “Psychological well-being influences CSMU (compulsive social media use), which in concurrence with sleep habits, influences the association between FoMO and problematic sleep”[^14]  
-    - Study found positive association between CMSU with problematic sleep due to social media to be significant among students → suggests social media engagement takes precedence over sleep quality or duration for students  
+    - Study found positive association between CSMU with problematic sleep due to social media to be significant among students → suggests social media engagement takes precedence over sleep quality or duration for students  
     - Study found positive association with FoMO (fear of missing out) and poor social media sleep hygiene to be significant for students, which is supported by prior research on effects of FoMO on young social media users (e.g.[^72] [^73]) → suggests that “students give considerable value to FoMO and may consequently experience higher levels of nomophobia”  
 - “Strict parental rules about internet and smartphone use before sleep might prevent negative consequences of social media use on bedtime and sleep quality, but only among less engaged social media users. Once adolescents are highly engaged social media users, strict parental rules do not seem to prevent negative media influences on sleep.”[^26]  
     - “...Parental rules regarding social media use in the hour before going to sleep generated more convincing results than parental rules regarding taking a smartphone or tablet to the bedroom; therefore, they may be more effective in preventing sleep problems”  
@@ -388,7 +391,7 @@ One promising avenue for mitigating any potential negative effects of social med
 
     The study investigating middle school students' social media use vs. academic performance found that parental communication played a significant role in whether school grades increased or decreased, countering part of the negative correlative relationship between SMU and grades[^30]
 
-    - Further investigation is needed to determine whether this moderated the relationship is due to inherent impacts of adolescent-parent interaction, or simply because extensive parental communication often involved limits/expectations being more strictly imposed on social media use.
+    - Further investigation is needed to determine whether this moderating effect is due to inherent impacts of adolescent-parent interaction, or simply because extensive parental communication often involved limits/expectations being more strictly imposed on social media use.
         - Either way, it is worth investigating what actions parents can take to aid young adolescents in navigating healthy social media use. For reference on potential actions, see [here](#info-for-parents-educators).
 
 # Body Image/Eating Disorders
@@ -406,7 +409,7 @@ One promising avenue for mitigating any potential negative effects of social med
 - **Amount of social media use** each day **was** “**significantly and inversely associated with BAS scores** (measures an individual's sensitivity to rewards and motivation to pursue goals) **and significantly and positively correlated with BMI, ratings on the FNAES, and frequency of binge eating and vomiting**”  
     - Breaking this down, it was **specifically exposure to weight-loss content on social media** which **affected BAS and FNAES scores and frequency of binge eating** rather than just time spent on social media overall.  
     - Similarly, “**respondents spending more time on social media** … **only reported high binge frequency if they were also exposed to weight loss content**”   
-    - Therefore, while social media use is clearly associated with negative body image effects, it is also the weight loss content presented to users/seeked out by users on SM which is responsible for this association–not the social media itself  
+    - Therefore, while social media use is clearly associated with negative body image effects, it is also the weight loss content presented to users/sought out by users on SM which is responsible for this association–not the social media itself  
 - Interestingly, the analysis found that consuming **body-positivity or neutral content** on social media **did not benefit or harm participants’ body image perception and eating disorder behaviors**  
 - Overall conclusion of the study: “**time spent on social media and number of platforms accessed were generally unrelated to outcomes of interest**,” but “**there were significant** main **effects of viewing weight loss content on social media on** indices of **body image satisfaction and disordered eating behaviors**, with exposure to weight loss content associated with lower body appreciation, greater fears of negative appearance evaluation, and more frequent binge eating”  
 - In a 2024 survey, **17% of highest social media users expressed poor body image** compared with 6% of the lowest users[^3]  
@@ -499,7 +502,7 @@ Some things to do to stay connected while protecting mental well-being:[^48]
 
 !!! tip "Staying Connected While Protecting Mental Well-Being"
 
-    - Limit the types of quantity of content you see
+    - Limit the types or quantity of content you see
         - Some resources for adjusting settings:
             - Managing content controls – TikTok[^49]
             - Navigating tragic events (which can include distressing news coverage & social media content) – TikTok[^50]
