@@ -1,3 +1,8 @@
+---
+hide:
+  - navigation
+---
+
 # Survey Data Analysis
 
 ## Methods

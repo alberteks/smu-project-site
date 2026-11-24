@@ -1,7 +1,7 @@
 import re
 from pathlib import Path
  
-text = Path('index.md').read_text(encoding='utf-8')
+text = Path('module.md').read_text(encoding='utf-8')
  
 NEW_NUM = 45
 NEW_TITLE = "To the Contrary | 25,000 Teens, 3 Years: Groundbreaking Social Media and Mental Health Study"
@@ -36,6 +36,6 @@ if not inserted:
  
 text = '\n'.join(lines)
  
-Path('index.md').write_text(text, encoding='utf-8')
+Path('module.md').write_text(text, encoding='utf-8')
 print(f"Inserted [^{NEW_NUM}] and shifted {max_num - NEW_NUM + 1} existing footnotes up by 1.")
 print("Remember to manually add [^45] references where this new source should be cited!")

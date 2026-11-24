@@ -1,7 +1,8 @@
 site_name: Teens & Social Media Use
+site_url: https://teensandsocialmedia.netlify.app/
 site_description: An educational module for teens, parents, & educators about adolescent social media use.
 strict: false
-copyright: "Authors: Albert Eksarevskiy & Selin Iskender"
+copyright: "&copy; Albert Eksarevskiy & Selin Iskender 2026"
 extra_css:
   - stylesheets/extra.css
 extra_javascript:
@@ -10,13 +11,11 @@ extra_javascript:
  
 theme:
   name: material
-  logo: assets/smu_site_logo.png
-  favicon: assets/smu_site_logo.png
   palette:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: indigo
+      primary: white
       accent: indigo
       toggle:
         icon: material/weather-night
@@ -24,7 +23,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: indigo
+      primary: black
       accent: indigo
       toggle:
         icon: material/weather-sunny
@@ -33,11 +32,14 @@ theme:
   features:
     - navigation.instant      # faster page loads
     - navigation.tracking     # URL updates as you scroll
+    - navigation.tabs         # tabs at top of nav bar
+    - navigation.tabs.sticky  # tabs remain visible even when scrolling down
     - navigation.top          # back-to-top button
     - navigation.footer       # prev/next page footer nav
     - search.suggest          # search autocomplete
     - search.highlight        # highlight search terms
     - toc.follow              # highlight current section in TOC
+    - header.autohide         # hides header on scroll down, and shows it on scroll up
  
   font:
     text: Roboto
@@ -61,6 +63,8 @@ markdown_extensions:
 
 nav:
   - Home: index.md
+  - Module: module.md
+  - Survey: survey-data-analysis.md
   - Resources by Topic: resources-by-topic.md
   - Research Library:
     - AACAP Guidance: aacap-social-media-guidance.md
@@ -121,4 +125,6 @@ nav:
     - What Should Policymakers Do?: what-should-policymakers-do-about-social-media.md
     - What the Brain Likes (Neural Correlates): what-the-brain-likes-neural-correlates.md
     - Windows of Developmental Sensitivity to SM: windows-of-developmental-sensitivity-to-SM.md
-  - Survey Data: survey-data-analysis.md
+
+extra:
+  generator: false

@@ -1,3 +1,66 @@
+/* content width */
+.md-grid {
+  max-width: 60rem;
+}
+
+/* header and tabs */
+
+.md-header__button.md-logo,
+.md-nav__button.md-logo {
+  display: none;
+}
+
+/* header title alignment */
+[dir=ltr] .md-header .md-header__title {
+  margin-left: 0.4rem;
+  margin-right: 0;
+  font-size: 0.95rem;
+}
+
+.md-header__topic:first-child {
+  font-weight: 500;
+  letter-spacing: 0.01em;
+}
+.md-header[data-md-state="shadow"],
+.md-header--shadow {
+  box-shadow: none;
+}
+
+.md-tabs {
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-tabs__link {
+  font-size: 0.72rem;
+  opacity: 0.7;
+}
+
+.md-tabs__link--active,
+.md-tabs__link:hover {
+  opacity: 1;
+}
+
+.md-tabs__item--active {
+  border-bottom: 2px solid var(--md-default-fg-color);
+}
+
+/* tighten space between header and page content */
+.md-main__inner {
+  margin-top: 1.5rem;
+}
+
+.md-content__inner {
+  padding-top: 0;
+}
+
+.md-content__inner::before {
+  display: none;
+}
+
+.md-content__inner > :first-child {
+  margin-top: 0;
+}
+
 /* callout text size */
 .md-typeset .admonition p,
 .md-typeset .admonition li {
@@ -54,12 +117,15 @@
 /* toc as numbered index */
 .md-typeset .toc-grid ul {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(20rem, 1fr));
-  column-gap: 2.5rem;
+  grid-template-columns: 1fr;
   list-style: none;
   margin: 1em 0;
   padding: 0;
   counter-reset: toc;
+}
+
+.md-typeset .toc-grid ul {
+  max-width: 36rem;
 }
 
 .md-typeset .toc-grid ul li {
@@ -162,4 +228,45 @@
 .md-typeset h4 {
   font-weight: 600;
   margin: 1.6em 0 0.5em;
+}
+
+/* home page links */
+.md-typeset .home-links ul {
+  list-style: none;
+  margin: 1.5em 0;
+  padding: 0;
+  border-top: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset .home-links ul li {
+  margin: 0;
+  padding: 0.9rem 0.2rem;
+  border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset .home-links ul li a {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--md-default-fg-color);
+}
+
+.md-typeset .home-links ul li a::after {
+  content: " →";
+  color: var(--md-default-fg-color--light);
+}
+
+.md-typeset .home-links ul li a:hover {
+  color: var(--md-accent-fg-color);
+}
+
+.md-typeset .home-links .desc {
+  display: block;
+  margin-top: 0.2rem;
+  font-size: 0.85rem;
+  color: var(--md-default-fg-color--light);
+}
+
+/* hide nav part of bottom footer */
+.md-footer__inner:not([hidden]) {
+  display: none;
 }

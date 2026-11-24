@@ -1,7 +1,7 @@
 import re
 from pathlib import Path
 
-text = Path('index.md').read_text(encoding='utf-8')
+text = Path('module.md').read_text(encoding='utf-8')
 
 # Pairs to merge: (keep, remove) -- all refs to "remove" become "keep", and
 # "remove"'s definition is dropped entirely.
@@ -48,7 +48,7 @@ for old, new in old_to_new.items():
 
 text = re.sub(r'\[\^__TMP(\d+)__\]', r'[^\1]', text)
 
-Path('index.md').write_text(text, encoding='utf-8')
+Path('module.md').write_text(text, encoding='utf-8')
 
 print("Merged pairs:", merge_pairs)
 print("Old -> New mapping (only changed):")
